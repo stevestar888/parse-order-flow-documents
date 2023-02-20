@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>APEX Clearing</bd>
+  <year>2022</year>
+  <qtr>2</qtr>
+  <timestamp>2022-08-16T20:37:08Z</timestamp>
+  <rMonthly>
+    <year>2022</year>
+    <mon>04</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>50.97</ndoMarketPct>
+      <ndoMarketableLimitPct>4.65</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>36.83</ndoNonmarketableLimitPct>
+      <ndoOtherPct>7.56</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Instinet, LLC</name>
+          <orderPct>24.97</orderPct>
+          <marketPct>31.03</marketPct>
+          <marketableLimitPct>16.54</marketableLimitPct>
+          <nonMarketableLimitPct>21.35</nonMarketableLimitPct>
+          <otherPct>6.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd></netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph></netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd></netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph></netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd></netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph></netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Instinet is APEX’s technology provider, All Exchange fee/rebates are passed directly back to the client.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>24.17</orderPct>
+          <marketPct>27.91</marketPct>
+          <marketableLimitPct>20.79</marketableLimitPct>
+          <nonMarketableLimitPct>20.70</nonMarketableLimitPct>
+          <otherPct>18.00</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4949.04</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1668.55</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3113.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>964.66</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.5440</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Virtu Financial, Inc. (Virtu) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>22.10</orderPct>
+          <marketPct>21.41</marketPct>
+          <marketableLimitPct>33.53</marketableLimitPct>
+          <nonMarketableLimitPct>22.52</nonMarketableLimitPct>
+          <otherPct>17.69</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>7868.22</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0096</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3133.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3506.79</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.6263</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2742.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>19.0947</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Jane Street Capital, LLC (Jane) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>19.13</orderPct>
+          <marketPct>12.92</marketPct>
+          <marketableLimitPct>19.29</marketableLimitPct>
+          <nonMarketableLimitPct>22.24</nonMarketableLimitPct>
+          <otherPct>45.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>5114.82</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1867.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2962.37</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1811.15</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.5352</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>6.18</orderPct>
+          <marketPct>1.15</marketPct>
+          <marketableLimitPct>1.87</marketableLimitPct>
+          <nonMarketableLimitPct>13.19</nonMarketableLimitPct>
+          <otherPct>8.57</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>463.27</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>159.89</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0087</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2045.67</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.9604</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>410.76</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.3666</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Two Sigma Investments, LP (Two Sigma) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CODA MARKETS INC</name>
+          <orderPct>3.45</orderPct>
+          <marketPct>5.58</marketPct>
+          <marketableLimitPct>7.99</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>3.13</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4829.72</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>630.32</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2.34</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.0032</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>401.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Coda Markets, Inc. (CODA) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.
+
+Important Disclosures: Orders routed to and executed by CODA Markets interact with PEAK6 Capital Management LLC. Both CODA Markets and PEAK6 Capital Management LLC are affiliated entities of Apex Clearing Corporation.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>31.44</ndoMarketPct>
+      <ndoMarketableLimitPct>10.42</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>44.32</ndoNonmarketableLimitPct>
+      <ndoOtherPct>13.82</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Instinet, LLC</name>
+          <orderPct>27.98</orderPct>
+          <marketPct>28.71</marketPct>
+          <marketableLimitPct>12.39</marketableLimitPct>
+          <nonMarketableLimitPct>38.55</nonMarketableLimitPct>
+          <otherPct>4.19</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd></netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph></netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd></netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph></netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd></netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph></netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Instinet is APEX’s technology provider, All Exchange fee/rebates are passed directly back to the client.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>24.36</orderPct>
+          <marketPct>18.15</marketPct>
+          <marketableLimitPct>21.82</marketableLimitPct>
+          <nonMarketableLimitPct>19.73</nonMarketableLimitPct>
+          <otherPct>55.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>77204.46</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>10.3837</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>128231.14</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>10.7329</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>71540.75</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.4465</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>55647.09</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.6625</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>20.35</orderPct>
+          <marketPct>25.91</marketPct>
+          <marketableLimitPct>33.23</marketableLimitPct>
+          <nonMarketableLimitPct>16.90</nonMarketableLimitPct>
+          <otherPct>9.03</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>91060.21</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>10.9992</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>166978.97</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.1268</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>90245.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.0310</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>56126.57</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.8987</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Jane Street Capital (Jane) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>18.02</orderPct>
+          <marketPct>19.28</marketPct>
+          <marketableLimitPct>22.82</marketableLimitPct>
+          <nonMarketableLimitPct>15.08</nonMarketableLimitPct>
+          <otherPct>20.97</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>52002.05</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.5654</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>97217.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.9538</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>73136.56</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.8509</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>23666.34</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.4390</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Virtu Financial, Inc. (Virtu) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>6.31</orderPct>
+          <marketPct>1.48</marketPct>
+          <marketableLimitPct>2.14</marketableLimitPct>
+          <nonMarketableLimitPct>9.73</nonMarketableLimitPct>
+          <otherPct>9.43</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4866.23</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.8042</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>10385.91</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.5687</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>57152.86</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.8598</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>6997.29</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>13.8563</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Two Sigma Investments, LP (Two Sigma) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CODA MARKETS INC</name>
+          <orderPct>2.98</orderPct>
+          <marketPct>6.47</marketPct>
+          <marketableLimitPct>7.61</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>1.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>10769.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>4198.27</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6.32</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.0014</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>816.29</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Coda Markets, Inc. (CODA) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.
+
+
+Important Disclosures: Orders routed to and executed by CODA Markets interact with PEAK6 Capital Management LLC. Both CODA Markets and PEAK6 Capital Management LLC are affiliated entities of Apex Clearing Corporation.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>1.70</ndoMarketPct>
+      <ndoMarketableLimitPct>4.77</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>35.24</ndoNonmarketableLimitPct>
+      <ndoOtherPct>58.29</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Dash Financial Technologies</name>
+          <orderPct>36.73</orderPct>
+          <marketPct>47.06</marketPct>
+          <marketableLimitPct>23.42</marketableLimitPct>
+          <nonMarketableLimitPct>13.41</nonMarketableLimitPct>
+          <otherPct>51.62</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>26437.38</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>21.2736</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>31801.65</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>24.5326</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>15800.46</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.1775</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>245911.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>51.4182</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Dash Technologies Inc (Dash) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>30.03</orderPct>
+          <marketPct>21.83</marketPct>
+          <marketableLimitPct>36.14</marketableLimitPct>
+          <nonMarketableLimitPct>42.66</nonMarketableLimitPct>
+          <otherPct>22.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>6523.55</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>26.5347</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>111080.65</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.8496</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>40002.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.9525</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>92747.64</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.0487</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Wolverine Execution Services (Wolverine) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>15.15</orderPct>
+          <marketPct>12.52</marketPct>
+          <marketableLimitPct>14.87</marketableLimitPct>
+          <nonMarketableLimitPct>17.21</nonMarketableLimitPct>
+          <otherPct>14.00</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3914.95</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>24.1634</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>34354.22</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>35.1335</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>18219.73</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.5188</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>56490.41</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.9627</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from G1 Execution Services, LLC (G1X) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Matrix Executions, LLC / Simplex Trading, LLC</name>
+          <orderPct>10.43</orderPct>
+          <marketPct>8.92</marketPct>
+          <marketableLimitPct>15.04</marketableLimitPct>
+          <nonMarketableLimitPct>16.77</nonMarketableLimitPct>
+          <otherPct>6.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>22.10</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>30.2740</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>20092.30</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>32.5176</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11773.75</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.0933</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>27510.88</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.6214</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Matrix Executions, LLC (Matrix) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>7.66</orderPct>
+          <marketPct>9.68</marketPct>
+          <marketableLimitPct>10.53</marketableLimitPct>
+          <nonMarketableLimitPct>9.95</nonMarketableLimitPct>
+          <otherPct>5.99</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3403.03</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>24.0005</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>22823.27</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>29.3736</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11147.14</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.8507</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>19476.02</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>51.9277</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2022</year>
+    <mon>05</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>52.70</ndoMarketPct>
+      <ndoMarketableLimitPct>4.49</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>36.53</ndoNonmarketableLimitPct>
+      <ndoOtherPct>6.28</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>33.02</orderPct>
+          <marketPct>43.88</marketPct>
+          <marketableLimitPct>20.92</marketableLimitPct>
+          <nonMarketableLimitPct>21.59</nonMarketableLimitPct>
+          <otherPct>16.92</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4080.26</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1476.74</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2834.83</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>797.67</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.9991</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Virtu Financial, Inc. (Virtu) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Instinet, LLC</name>
+          <orderPct>21.83</orderPct>
+          <marketPct>26.11</marketPct>
+          <marketableLimitPct>12.63</marketableLimitPct>
+          <nonMarketableLimitPct>19.12</nonMarketableLimitPct>
+          <otherPct>8.20</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Instinet is APEX’s technology provider, All Exchange fee/rebates are passed directly back to the client.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>19.48</orderPct>
+          <marketPct>14.97</marketPct>
+          <marketableLimitPct>34.76</marketableLimitPct>
+          <nonMarketableLimitPct>25.50</nonMarketableLimitPct>
+          <otherPct>11.40</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>5295.92</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0094</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2791.22</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3945.56</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.7881</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2663.87</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.2626</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Jane Street Capital, LLC (Jane) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>16.58</orderPct>
+          <marketPct>9.56</marketPct>
+          <marketableLimitPct>20.03</marketableLimitPct>
+          <nonMarketableLimitPct>20.27</nonMarketableLimitPct>
+          <otherPct>51.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3517.01</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2213.28</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2570.78</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.0001</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1731.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.1384</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>6.15</orderPct>
+          <marketPct>0.81</marketPct>
+          <marketableLimitPct>1.89</marketableLimitPct>
+          <nonMarketableLimitPct>13.51</nonMarketableLimitPct>
+          <otherPct>11.19</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>265.38</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>166.87</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0008</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2069.62</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.9453</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>512.85</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.7326</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Two Sigma Investments, LP (Two Sigma) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CODA MARKETS INC</name>
+          <orderPct>2.95</orderPct>
+          <marketPct>4.67</marketPct>
+          <marketableLimitPct>9.78</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4564.31</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>812.79</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2.18</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.9959</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>82.48</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.0001</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Coda Markets, Inc. (CODA) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.
+
+Important Disclosures: Orders routed to and executed by CODA Markets interact with PEAK6 Capital Management LLC. Both CODA Markets and PEAK6 Capital Management LLC are affiliated entities of Apex Clearing Corporation.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>34.82</ndoMarketPct>
+      <ndoMarketableLimitPct>10.67</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>41.04</ndoNonmarketableLimitPct>
+      <ndoOtherPct>13.47</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Instinet, LLC</name>
+          <orderPct>25.42</orderPct>
+          <marketPct>26.30</marketPct>
+          <marketableLimitPct>9.36</marketableLimitPct>
+          <nonMarketableLimitPct>35.78</nonMarketableLimitPct>
+          <otherPct>4.31</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Instinet is APEX’s technology provider, All Exchange fee/rebates are passed directly back to the client.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>24.15</orderPct>
+          <marketPct>16.40</marketPct>
+          <marketableLimitPct>23.12</marketableLimitPct>
+          <nonMarketableLimitPct>19.11</nonMarketableLimitPct>
+          <otherPct>60.37</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>60540.21</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.7586</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>118319.18</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.7661</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>49642.22</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>13.9288</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>67372.32</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.7126</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>20.57</orderPct>
+          <marketPct>27.21</marketPct>
+          <marketableLimitPct>22.39</marketableLimitPct>
+          <nonMarketableLimitPct>15.78</nonMarketableLimitPct>
+          <otherPct>16.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>55073.83</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.2605</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>80516.27</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.8432</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>61552.18</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.2006</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>22172.42</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.4578</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Virtu Financial, Inc. (Virtu) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>20.25</orderPct>
+          <marketPct>22.20</marketPct>
+          <marketableLimitPct>33.63</marketableLimitPct>
+          <nonMarketableLimitPct>19.23</nonMarketableLimitPct>
+          <otherPct>7.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>78817.81</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.9295</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>148950.44</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0125</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>84877.96</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.1427</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>52058.49</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>16.0646</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Jane Street Capital (Jane) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>6.21</orderPct>
+          <marketPct>1.31</marketPct>
+          <marketableLimitPct>2.19</marketableLimitPct>
+          <nonMarketableLimitPct>10.10</nonMarketableLimitPct>
+          <otherPct>10.21</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4297.13</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>6.1519</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>8948.19</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>6.7949</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>47037.37</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.8581</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>7300.53</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.1622</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Two Sigma Investments, LP (Two Sigma) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CODA MARKETS INC</name>
+          <orderPct>3.41</orderPct>
+          <marketPct>6.59</marketPct>
+          <marketableLimitPct>9.30</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.85</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>13294.11</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>5750.72</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11.83</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.9991</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>664.61</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Coda Markets, Inc. (CODA) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.
+
+
+Important Disclosures: Orders routed to and executed by CODA Markets interact with PEAK6 Capital Management LLC. Both CODA Markets and PEAK6 Capital Management LLC are affiliated entities of Apex Clearing Corporation.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>1.51</ndoMarketPct>
+      <ndoMarketableLimitPct>5.13</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>34.18</ndoNonmarketableLimitPct>
+      <ndoOtherPct>59.18</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Dash Financial Technologies</name>
+          <orderPct>38.10</orderPct>
+          <marketPct>51.26</marketPct>
+          <marketableLimitPct>27.48</marketableLimitPct>
+          <nonMarketableLimitPct>23.46</nonMarketableLimitPct>
+          <otherPct>47.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>98012.24</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>21.1362</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>60440.76</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>31.0610</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>23989.16</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.3236</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>271025.62</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>51.9453</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Dash Technologies Inc (Dash) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>28.96</orderPct>
+          <marketPct>20.41</marketPct>
+          <marketableLimitPct>34.06</marketableLimitPct>
+          <nonMarketableLimitPct>36.00</nonMarketableLimitPct>
+          <otherPct>24.68</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>6446.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>26.6463</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>91606.95</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>29.6620</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>31556.50</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.0981</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>120269.73</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>54.1531</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Wolverine Execution Services (Wolverine) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>12.75</orderPct>
+          <marketPct>11.24</marketPct>
+          <marketableLimitPct>12.45</marketableLimitPct>
+          <nonMarketableLimitPct>12.43</nonMarketableLimitPct>
+          <otherPct>13.00</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2630.12</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>23.4895</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>25441.63</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>28.8640</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11797.66</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.8468</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>60826.98</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>53.3121</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from G1 Execution Services, LLC (G1X) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>10.31</orderPct>
+          <marketPct>8.16</marketPct>
+          <marketableLimitPct>11.40</marketableLimitPct>
+          <nonMarketableLimitPct>10.93</nonMarketableLimitPct>
+          <otherPct>9.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1998.87</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>24.5833</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>28057.65</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>29.6580</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>12675.06</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.4214</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>38274.74</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>52.6917</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Matrix Executions, LLC / Simplex Trading, LLC</name>
+          <orderPct>9.87</orderPct>
+          <marketPct>8.92</marketPct>
+          <marketableLimitPct>14.61</marketableLimitPct>
+          <nonMarketableLimitPct>17.18</nonMarketableLimitPct>
+          <otherPct>5.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>58.75</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>25.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>18988.75</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>30.2138</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>10720.30</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.2182</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>31743.48</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.2724</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Matrix Executions, LLC (Matrix) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2022</year>
+    <mon>06</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>46.35</ndoMarketPct>
+      <ndoMarketableLimitPct>5.01</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>40.51</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.12</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Instinet, LLC</name>
+          <orderPct>28.98</orderPct>
+          <marketPct>36.41</marketPct>
+          <marketableLimitPct>18.11</marketableLimitPct>
+          <nonMarketableLimitPct>26.00</nonMarketableLimitPct>
+          <otherPct>8.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Instinet is APEX’s technology provider, All Exchange fee/rebates are passed directly back to the client.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>21.61</orderPct>
+          <marketPct>20.54</marketPct>
+          <marketableLimitPct>33.29</marketableLimitPct>
+          <nonMarketableLimitPct>23.59</nonMarketableLimitPct>
+          <otherPct>10.60</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>5523.30</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0141</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3595.69</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3474.45</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.8101</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3986.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>23.3507</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Jane Street Capital, LLC (Jane) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>19.20</orderPct>
+          <marketPct>22.70</marketPct>
+          <marketableLimitPct>18.47</marketableLimitPct>
+          <nonMarketableLimitPct>16.40</nonMarketableLimitPct>
+          <otherPct>13.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4338.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1610.16</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2062.75</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>810.98</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.1358</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Virtu Financial, Inc. (Virtu) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>19.13</orderPct>
+          <marketPct>12.67</marketPct>
+          <marketableLimitPct>18.65</marketableLimitPct>
+          <nonMarketableLimitPct>19.37</nonMarketableLimitPct>
+          <otherPct>55.09</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3629.92</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2811.75</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1961.55</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>4161.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>17.1535</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>7.51</orderPct>
+          <marketPct>1.12</marketPct>
+          <marketableLimitPct>1.83</marketableLimitPct>
+          <nonMarketableLimitPct>14.63</nonMarketableLimitPct>
+          <otherPct>11.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>301.75</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>247.91</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0107</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2417.06</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.9639</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>751.35</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>16.8620</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Two Sigma Investments, LP (Two Sigma) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CODA MARKETS INC</name>
+          <orderPct>3.58</orderPct>
+          <marketPct>6.56</marketPct>
+          <marketableLimitPct>9.63</marketableLimitPct>
+          <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+          <otherPct>0.62</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4419.98</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>701.67</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2.08</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>73.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.0001</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Coda Markets, Inc. (CODA) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.
+
+Important Disclosures: Orders routed to and executed by CODA Markets interact with PEAK6 Capital Management LLC. Both CODA Markets and PEAK6 Capital Management LLC are affiliated entities of Apex Clearing Corporation.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>30.42</ndoMarketPct>
+      <ndoMarketableLimitPct>12.48</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>43.00</ndoNonmarketableLimitPct>
+      <ndoOtherPct>14.10</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Instinet, LLC</name>
+          <orderPct>27.36</orderPct>
+          <marketPct>30.34</marketPct>
+          <marketableLimitPct>10.86</marketableLimitPct>
+          <nonMarketableLimitPct>37.49</nonMarketableLimitPct>
+          <otherPct>4.64</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>0.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>0.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Instinet is APEX’s technology provider, All Exchange fee/rebates are passed directly back to the client.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>25.29</orderPct>
+          <marketPct>18.29</marketPct>
+          <marketableLimitPct>22.66</marketableLimitPct>
+          <nonMarketableLimitPct>18.79</nonMarketableLimitPct>
+          <otherPct>62.53</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>60488.29</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.3704</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>149802.82</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>10.1118</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>62948.71</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>12.2410</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>65636.35</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>13.7269</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Jane Street Capital</name>
+          <orderPct>21.14</orderPct>
+          <marketPct>25.16</marketPct>
+          <marketableLimitPct>33.16</marketableLimitPct>
+          <nonMarketableLimitPct>19.22</nonMarketableLimitPct>
+          <otherPct>7.66</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>74919.21</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4976</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>191358.28</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>10.4762</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>110536.13</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>22.6019</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>58964.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.0551</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Jane Street Capital (Jane) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>15.33</orderPct>
+          <marketPct>17.10</marketPct>
+          <marketableLimitPct>21.87</marketableLimitPct>
+          <nonMarketableLimitPct>12.65</nonMarketableLimitPct>
+          <otherPct>13.86</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>48040.25</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.2846</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>102250.97</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.8047</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>61004.15</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.0995</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>23101.74</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.8524</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Virtu Financial, Inc. (Virtu) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>7.31</orderPct>
+          <marketPct>1.50</marketPct>
+          <marketableLimitPct>2.27</marketableLimitPct>
+          <nonMarketableLimitPct>11.84</nonMarketableLimitPct>
+          <otherPct>10.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4527.09</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>5.5081</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>11136.63</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>6.6688</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>80425.37</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.8488</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>8839.86</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>13.0409</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Two Sigma Investments, LP (Two Sigma) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CODA MARKETS INC</name>
+          <orderPct>3.58</orderPct>
+          <marketPct>7.61</marketPct>
+          <marketableLimitPct>9.18</marketableLimitPct>
+          <nonMarketableLimitPct>0.01</nonMarketableLimitPct>
+          <otherPct>0.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>13428.19</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6646.61</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>16.61</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.0003</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>670.68</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Coda Markets, Inc. (CODA) for directing order flow. Payment varies based upon a number of factors including but not limited to: whether an order is marketable at the time of order entry, the underlying price of the security and any special handling instructions. These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.
+
+
+Important Disclosures: Orders routed to and executed by CODA Markets interact with PEAK6 Capital Management LLC. Both CODA Markets and PEAK6 Capital Management LLC are affiliated entities of Apex Clearing Corporation.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>1.50</ndoMarketPct>
+      <ndoMarketableLimitPct>4.50</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>28.22</ndoNonmarketableLimitPct>
+      <ndoOtherPct>65.78</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Dash Financial Technologies</name>
+          <orderPct>41.82</orderPct>
+          <marketPct>46.95</marketPct>
+          <marketableLimitPct>29.44</marketableLimitPct>
+          <nonMarketableLimitPct>26.26</nonMarketableLimitPct>
+          <otherPct>49.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>28388.63</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>21.6209</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>79720.78</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>31.7727</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>31980.52</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.7451</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>279212.98</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>51.3971</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Dash Technologies Inc (Dash) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>29.06</orderPct>
+          <marketPct>24.06</marketPct>
+          <marketableLimitPct>34.80</marketableLimitPct>
+          <nonMarketableLimitPct>36.64</nonMarketableLimitPct>
+          <otherPct>25.53</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>7234.35</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>27.5175</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>142032.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>28.5008</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>34647.80</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.6716</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>111385.32</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>53.6399</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Wolverine Execution Services (Wolverine) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>10.88</orderPct>
+          <marketPct>9.94</marketPct>
+          <marketableLimitPct>11.35</marketableLimitPct>
+          <nonMarketableLimitPct>11.25</nonMarketableLimitPct>
+          <otherPct>10.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2959.12</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>24.7397</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>42273.83</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>28.0738</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>14325.47</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.0243</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>46292.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>52.3125</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Citadel Securities, LLC. (Citadel) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Matrix Executions, LLC / Simplex Trading, LLC</name>
+          <orderPct>9.55</orderPct>
+          <marketPct>10.86</marketPct>
+          <marketableLimitPct>16.69</marketableLimitPct>
+          <nonMarketableLimitPct>18.64</nonMarketableLimitPct>
+          <otherPct>5.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>17.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>38.6957</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>31093.90</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>30.3557</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>18486.35</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.2649</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>28603.64</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.5410</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from Matrix Executions, LLC (Matrix) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>8.69</orderPct>
+          <marketPct>8.19</marketPct>
+          <marketableLimitPct>7.73</marketableLimitPct>
+          <nonMarketableLimitPct>7.22</nonMarketableLimitPct>
+          <otherPct>9.39</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2495.47</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>23.8915</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>16942.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>29.2109</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>5975.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.7194</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>45189.61</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>52.1374</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>APEX receives payment from G1 Execution Services, LLC (G1X) for directing order flow of options contracts. Payment varies based upon a number of factors including but not limited to: Type of the order and the underlying symbol of the security.  These payments were not contingent upon volume-based tiered payment schedules, agreements regarding minimum order flow, incentives for exceeding order flow thresholds or disincentives for failing to meet order flow thresholds.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>
