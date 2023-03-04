@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>FIRSTRADE SECURITIES INC.</bd>
+  <year>2022</year>
+  <qtr>3</qtr>
+  <timestamp>2022-10-27T18:31:08Z</timestamp>
+  <rMonthly>
+    <year>2022</year>
+    <mon>07</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>27.31</ndoMarketPct>
+      <ndoMarketableLimitPct>6.06</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>48.57</ndoNonmarketableLimitPct>
+      <ndoOtherPct>18.06</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>98.00</orderPct>
+          <marketPct>98.95</marketPct>
+          <marketableLimitPct>97.66</marketableLimitPct>
+          <nonMarketableLimitPct>97.03</nonMarketableLimitPct>
+          <otherPct>99.26</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>12402.29</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>4408.96</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>8944.84</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.9989</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2614.77</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.1393</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed equities. Citadel Securities, LLC provides to Firstrade $.000225 per share for stocks less than $5.00, and $0.0015 per share for stocks greater than or equal to $5.00. Orders that have shares priced less than $1.00 receive no payment. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed equities under a fully disclosed clearing agreement that is volume based and calculated monthly for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade monthly tiered payments as follows: (a) 1-40,000,000 shares, $0.00040/share @ 50% of amount received by Apex; (b) 40,000,001-125,000,000, $0.00020/share @ 75% of amount received by Apex; (c) 125,000,001 and above, $0.00010/share @ 80% of amount received by Apex. Firstrade receives no payment for OTC equity orders. Firstrade directed less than 5% of equity flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>27.26</ndoMarketPct>
+      <ndoMarketableLimitPct>9.69</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>44.48</ndoNonmarketableLimitPct>
+      <ndoOtherPct>18.57</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>98.53</orderPct>
+          <marketPct>98.71</marketPct>
+          <marketableLimitPct>96.88</marketableLimitPct>
+          <nonMarketableLimitPct>98.32</nonMarketableLimitPct>
+          <otherPct>99.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>81518.59</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>13.3507</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>43022.81</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.4654</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>57881.95</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>9.6853</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>9714.41</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>5.0336</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed equities. Citadel Securities, LLC provides to Firstrade $.000225 per share for stocks less than $5.00, and $0.0015 per share for stocks greater than or equal to $5.00. Orders that have shares priced less than $1.00 receive no payment. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed equities under a fully disclosed clearing agreement that is volume based and calculated monthly for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade monthly tiered payments as follows: (a) 1-40,000,000 shares, $0.00040/share @ 50% of amount received by Apex; (b) 40,000,001-125,000,000, $0.00020/share @ 75% of amount received by Apex; (c) 125,000,001 and above, $0.00010/share @ 80% of amount received by Apex. Firstrade receives no payment for OTC equity orders. Firstrade directed less than 5% of equity flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>7.63</ndoMarketPct>
+      <ndoMarketableLimitPct>11.79</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>57.65</ndoNonmarketableLimitPct>
+      <ndoOtherPct>22.92</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>51.35</orderPct>
+          <marketPct>51.25</marketPct>
+          <marketableLimitPct>45.48</marketableLimitPct>
+          <nonMarketableLimitPct>46.15</nonMarketableLimitPct>
+          <otherPct>67.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>52671.43</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>37.4233</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>138809.68</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>39.9200</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>99300.96</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>37.9634</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>18522.09</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.9580</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed options. Citadel Securities, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed options under a fully disclosed clearing agreement for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade 50% of the amount Apex receives at an execution rate of $0.03 per contract on all options trades. Firstrade directed less than 5% of options flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>41.86</orderPct>
+          <marketPct>44.55</marketPct>
+          <marketableLimitPct>48.16</marketableLimitPct>
+          <nonMarketableLimitPct>48.51</nonMarketableLimitPct>
+          <otherPct>20.98</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>41639.52</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>43.3731</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>122519.50</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>46.5114</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>123706.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>46.0624</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>19801.72</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>42.8219</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Wolverine Execution Services, LLC for directing order flow of listed options. Wolverine Execution Services, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Wolverine Execution Services, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed options under a fully disclosed clearing agreement for Apex routes to Wolverine. Apex Clearing Corporation provides to Firstrade 50% of the amount Apex receives at an execution rate of $0.03 per contract on all options trades. Firstrade directed less than 5% of options flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Volant Execution</name>
+          <orderPct>6.73</orderPct>
+          <marketPct>4.12</marketPct>
+          <marketableLimitPct>6.04</marketableLimitPct>
+          <nonMarketableLimitPct>5.32</nonMarketableLimitPct>
+          <otherPct>11.50</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1878.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>40.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>13939.20</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>40.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>14556.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>16210.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>40.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Volant Execution, LLC for directing order flow of listed options. Volant Execution, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Volant Execution, LLC, is not based, in any respect, on volume thresholds. While the arrangement is intended to help ensure successful execution of orders, this execution may involve the use of auctions or other exchange functionality and routing to third party brokers or market makers, which may result in certain cases, in price improvement or execution quality.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2022</year>
+    <mon>08</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>28.68</ndoMarketPct>
+      <ndoMarketableLimitPct>6.09</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>48.63</ndoNonmarketableLimitPct>
+      <ndoOtherPct>16.60</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>97.71</orderPct>
+          <marketPct>98.69</marketPct>
+          <marketableLimitPct>96.75</marketableLimitPct>
+          <nonMarketableLimitPct>96.83</nonMarketableLimitPct>
+          <otherPct>98.97</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>17125.42</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>4993.95</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>10166.52</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.9959</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2386.97</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.3309</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed equities. Citadel Securities, LLC provides to Firstrade $.000225 per share for stocks less than $5.00, and $0.0015 per share for stocks greater than or equal to $5.00. Orders that have shares priced less than $1.00 receive no payment. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed equities under a fully disclosed clearing agreement that is volume based and calculated monthly for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade monthly tiered payments as follows: (a) 1-40,000,000 shares, $0.00040/share @ 50% of amount received by Apex; (b) 40,000,001-125,000,000, $0.00020/share @ 75% of amount received by Apex; (c) 125,000,001 and above, $0.00010/share @ 80% of amount received by Apex. Firstrade receives no payment for OTC equity orders. Firstrade directed less than 5% of equity flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>28.56</ndoMarketPct>
+      <ndoMarketableLimitPct>9.21</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>43.50</ndoNonmarketableLimitPct>
+      <ndoOtherPct>18.72</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>98.08</orderPct>
+          <marketPct>98.33</marketPct>
+          <marketableLimitPct>96.16</marketableLimitPct>
+          <nonMarketableLimitPct>97.68</nonMarketableLimitPct>
+          <otherPct>99.54</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>120036.09</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>13.2202</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>56620.85</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.2481</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>62137.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>9.5648</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>12508.66</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.7270</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed equities. Citadel Securities, LLC provides to Firstrade $.000225 per share for stocks less than $5.00, and $0.0015 per share for stocks greater than or equal to $5.00. Orders that have shares priced less than $1.00 receive no payment. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed equities under a fully disclosed clearing agreement that is volume based and calculated monthly for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade monthly tiered payments as follows: (a) 1-40,000,000 shares, $0.00040/share @ 50% of amount received by Apex; (b) 40,000,001-125,000,000, $0.00020/share @ 75% of amount received by Apex; (c) 125,000,001 and above, $0.00010/share @ 80% of amount received by Apex. Firstrade receives no payment for OTC equity orders. Firstrade directed less than 5% of equity flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>7.83</ndoMarketPct>
+      <ndoMarketableLimitPct>12.05</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>56.59</ndoNonmarketableLimitPct>
+      <ndoOtherPct>23.53</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>64.88</orderPct>
+          <marketPct>61.69</marketPct>
+          <marketableLimitPct>60.76</marketableLimitPct>
+          <nonMarketableLimitPct>63.39</nonMarketableLimitPct>
+          <otherPct>71.63</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>63605.59</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.0057</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>211964.88</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>42.2265</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>159567.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>39.9766</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>39254.57</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.2422</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed options. Citadel Securities, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed options under a fully disclosed clearing agreement for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade 50% of the amount Apex receives at an execution rate of $0.03 per contract on all options trades. Firstrade directed less than 5% of options flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>26.89</orderPct>
+          <marketPct>32.83</marketPct>
+          <marketableLimitPct>29.54</marketableLimitPct>
+          <nonMarketableLimitPct>28.84</nonMarketableLimitPct>
+          <otherPct>18.87</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>32321.25</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>41.9261</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>91272.50</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>43.3284</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>86882.28</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>43.7787</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>22707.12</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>44.4514</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Wolverine Execution Services, LLC for directing order flow of listed options. Wolverine Execution Services, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Wolverine Execution Services, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed options under a fully disclosed clearing agreement for Apex routes to Wolverine. Apex Clearing Corporation provides to Firstrade 50% of the amount Apex receives at an execution rate of $0.03 per contract on all options trades. Firstrade directed less than 5% of options flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Volant Execution</name>
+          <orderPct>8.10</orderPct>
+          <marketPct>5.39</marketPct>
+          <marketableLimitPct>9.18</marketableLimitPct>
+          <nonMarketableLimitPct>7.69</nonMarketableLimitPct>
+          <otherPct>9.46</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3332.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>44.0206</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>29606.40</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>45.7850</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>27892.80</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>45.5118</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>20649.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>42.8114</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Volant Execution, LLC for directing order flow of listed options. Volant Execution, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Volant Execution, LLC, is not based, in any respect, on volume thresholds. While the arrangement is intended to help ensure successful execution of orders, this execution may involve the use of auctions or other exchange functionality and routing to third party brokers or market makers, which may result in certain cases, in price improvement or execution quality.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2022</year>
+    <mon>09</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>27.91</ndoMarketPct>
+      <ndoMarketableLimitPct>6.33</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>49.06</ndoNonmarketableLimitPct>
+      <ndoOtherPct>16.70</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>97.23</orderPct>
+          <marketPct>98.26</marketPct>
+          <marketableLimitPct>96.29</marketableLimitPct>
+          <nonMarketableLimitPct>96.33</nonMarketableLimitPct>
+          <otherPct>98.53</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>12533.13</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>4882.17</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11976.91</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.9932</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3324.05</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.0030</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed equities. Citadel Securities, LLC provides to Firstrade $.000225 per share for stocks less than $5.00, and $0.0015 per share for stocks greater than or equal to $5.00. Orders that have shares priced less than $1.00 receive no payment. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed equities under a fully disclosed clearing agreement that is volume based and calculated monthly for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade monthly tiered payments as follows: (a) 1-40,000,000 shares, $0.00040/share @ 50% of amount received by Apex; (b) 40,000,001-125,000,000, $0.00020/share @ 75% of amount received by Apex; (c) 125,000,001 and above, $0.00010/share @ 80% of amount received by Apex. Firstrade receives no payment for OTC equity orders. Firstrade directed less than 5% of equity flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>28.31</ndoMarketPct>
+      <ndoMarketableLimitPct>9.04</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>44.55</ndoNonmarketableLimitPct>
+      <ndoOtherPct>18.10</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>98.06</orderPct>
+          <marketPct>98.25</marketPct>
+          <marketableLimitPct>96.60</marketableLimitPct>
+          <nonMarketableLimitPct>97.62</nonMarketableLimitPct>
+          <otherPct>99.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>101891.95</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>13.3393</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>43083.99</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.5301</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>58883.99</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>10.6832</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11973.34</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>5.3384</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed equities. Citadel Securities, LLC provides to Firstrade $.000225 per share for stocks less than $5.00, and $0.0015 per share for stocks greater than or equal to $5.00. Orders that have shares priced less than $1.00 receive no payment. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed equities under a fully disclosed clearing agreement that is volume based and calculated monthly for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade monthly tiered payments as follows: (a) 1-40,000,000 shares, $0.00040/share @ 50% of amount received by Apex; (b) 40,000,001-125,000,000, $0.00020/share @ 75% of amount received by Apex; (c) 125,000,001 and above, $0.00010/share @ 80% of amount received by Apex. Firstrade receives no payment for OTC equity orders. Firstrade directed less than 5% of equity flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>7.74</ndoMarketPct>
+      <ndoMarketableLimitPct>13.11</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>54.39</ndoNonmarketableLimitPct>
+      <ndoOtherPct>24.76</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>68.21</orderPct>
+          <marketPct>64.48</marketPct>
+          <marketableLimitPct>66.56</marketableLimitPct>
+          <nonMarketableLimitPct>66.56</nonMarketableLimitPct>
+          <otherPct>73.87</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>47749.29</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.4432</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>199418.07</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>41.4485</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>145839.93</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>38.1395</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>26753.58</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.3067</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Citadel Securities, LLC for directing order flow of listed options. Citadel Securities, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Citadel Securities, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed options under a fully disclosed clearing agreement for Apex routes to Citadel. Apex Clearing Corporation provides to Firstrade 50% of the amount Apex receives at an execution rate of $0.03 per contract on all options trades. Firstrade directed less than 5% of options flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>24.33</orderPct>
+          <marketPct>29.76</marketPct>
+          <marketableLimitPct>25.54</marketableLimitPct>
+          <nonMarketableLimitPct>25.82</nonMarketableLimitPct>
+          <otherPct>18.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>28014.62</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>42.4393</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>72525.88</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>42.4178</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>75306.32</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>42.3884</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>31743.48</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>40.9092</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Wolverine Execution Services, LLC for directing order flow of listed options. Wolverine Execution Services, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Wolverine Execution Services, LLC, is not based, in any respect, on volume thresholds. Firstrade receives payment from Apex Clearing Corporation for directing order flow of listed options under a fully disclosed clearing agreement for Apex routes to Wolverine. Apex Clearing Corporation provides to Firstrade 50% of the amount Apex receives at an execution rate of $0.03 per contract on all options trades. Firstrade directed less than 5% of options flow to Apex Clearing during Q3 2022.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Volant Execution</name>
+          <orderPct>7.36</orderPct>
+          <marketPct>5.66</marketPct>
+          <marketableLimitPct>7.48</marketableLimitPct>
+          <nonMarketableLimitPct>7.56</nonMarketableLimitPct>
+          <otherPct>7.38</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3726.40</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>44.3408</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>25809.20</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>44.7013</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>29570.80</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.0704</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>17850.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>41.7661</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade receives payment from Volant Execution, LLC for directing order flow of listed options. Volant Execution, LLC provides to Firstrade $0.40 per contract for options contracts with spreads of one penny and $0.80 per contract for options contracts with spreads of five cents or higher. Firstrade’s arrangement with Volant Execution, LLC, is not based, in any respect, on volume thresholds. While the arrangement is intended to help ensure successful execution of orders, this execution may involve the use of auctions or other exchange functionality and routing to third party brokers or market makers, which may result in certain cases, in price improvement or execution quality.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>

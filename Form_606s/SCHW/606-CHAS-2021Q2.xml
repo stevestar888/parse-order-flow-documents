@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>Charles Schwab</bd>
+  <year>2021</year>
+  <qtr>2</qtr>
+  <timestamp>2021-07-27T19:54:06Z</timestamp>
+  <rMonthly>
+    <year>2021</year>
+    <mon>04</mon>
+    <rSP500>
+      <ndoPct>99.67</ndoPct>
+      <ndoMarketPct>56.79</ndoMarketPct>
+      <ndoMarketableLimitPct>4.52</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>30.28</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.41</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>34.74</orderPct>
+          <marketPct>37.50</marketPct>
+          <marketableLimitPct>34.90</marketableLimitPct>
+          <nonMarketableLimitPct>28.82</nonMarketableLimitPct>
+          <otherPct>37.30</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>246920.79</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9959</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>42753.81</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9968</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>218104.57</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.9554</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>37792.48</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.2503</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.61</orderPct>
+          <marketPct>28.23</marketPct>
+          <marketableLimitPct>27.10</marketableLimitPct>
+          <nonMarketableLimitPct>22.58</nonMarketableLimitPct>
+          <otherPct>41.76</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>206768.72</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9891</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>34293.89</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>141481.09</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11455.78</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>3.9027</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>16.63</orderPct>
+          <marketPct>14.74</marketPct>
+          <marketableLimitPct>16.35</marketableLimitPct>
+          <nonMarketableLimitPct>21.90</nonMarketableLimitPct>
+          <otherPct>10.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>109600.76</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>19254.63</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>157540.03</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>18458.59</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.1008</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>15.65</orderPct>
+          <marketPct>14.78</marketPct>
+          <marketableLimitPct>16.48</marketableLimitPct>
+          <nonMarketableLimitPct>19.14</nonMarketableLimitPct>
+          <otherPct>8.53</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>89047.03</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>40925.86</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.1670</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>109648.43</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.4494</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>20775.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.3251</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>4.64</orderPct>
+          <marketPct>4.71</marketPct>
+          <marketableLimitPct>4.94</marketableLimitPct>
+          <nonMarketableLimitPct>5.33</nonMarketableLimitPct>
+          <otherPct>1.52</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>36397.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0001</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6570.59</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0291</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>31824.45</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.5907</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2803.86</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.8413</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>0.41</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.07</marketableLimitPct>
+          <nonMarketableLimitPct>1.31</nonMarketableLimitPct>
+          <otherPct>0.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-35.61</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-30.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>7309.27</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-91.21</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-12.2012</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>0.32</orderPct>
+          <marketPct>0.03</marketPct>
+          <marketableLimitPct>0.16</marketableLimitPct>
+          <nonMarketableLimitPct>0.92</nonMarketableLimitPct>
+          <otherPct>0.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-2.03</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-0.0141</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-2106.09</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-23.4051</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4860.36</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.0678</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.37</ndoPct>
+      <ndoMarketPct>50.15</ndoMarketPct>
+      <ndoMarketableLimitPct>6.65</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>34.76</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.44</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>33.45</orderPct>
+          <marketPct>35.60</marketPct>
+          <marketableLimitPct>34.96</marketableLimitPct>
+          <nonMarketableLimitPct>29.10</nonMarketableLimitPct>
+          <otherPct>37.35</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>762688.59</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4438</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>248833.77</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7603</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>842734.52</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.6418</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>122531.79</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.0548</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.23</orderPct>
+          <marketPct>27.18</marketPct>
+          <marketableLimitPct>27.40</marketableLimitPct>
+          <nonMarketableLimitPct>23.13</nonMarketableLimitPct>
+          <otherPct>44.24</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>637229.74</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4212</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>205979.86</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7227</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>585583.64</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.7965</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>31189.39</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>2.2438</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>17.48</orderPct>
+          <marketPct>15.98</marketPct>
+          <marketableLimitPct>16.51</marketableLimitPct>
+          <nonMarketableLimitPct>21.78</nonMarketableLimitPct>
+          <otherPct>9.41</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>363057.40</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4386</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>117288.85</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7805</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>671641.56</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.8833</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>56755.14</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.7992</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>16.32</orderPct>
+          <marketPct>16.09</marketPct>
+          <marketableLimitPct>16.16</marketableLimitPct>
+          <nonMarketableLimitPct>18.80</nonMarketableLimitPct>
+          <otherPct>7.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>273444.58</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4188</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>169149.67</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.1465</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>429297.87</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.0362</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>76678.58</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>13.0936</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>4.70</orderPct>
+          <marketPct>5.08</marketPct>
+          <marketableLimitPct>4.80</marketableLimitPct>
+          <nonMarketableLimitPct>4.98</nonMarketableLimitPct>
+          <otherPct>1.20</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>112914.23</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4493</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>38269.64</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7765</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>121314.61</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.5759</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>8702.77</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.7523</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>0.44</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.05</marketableLimitPct>
+          <nonMarketableLimitPct>1.24</nonMarketableLimitPct>
+          <otherPct>0.11</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-200.54</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.9268</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>27757.30</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.8394</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-446.91</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-14.2913</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>0.39</orderPct>
+          <marketPct>0.07</marketPct>
+          <marketableLimitPct>0.11</marketableLimitPct>
+          <nonMarketableLimitPct>0.98</nonMarketableLimitPct>
+          <otherPct>0.10</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-0.13</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-0.0012</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-3578.28</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-20.6170</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>17440.87</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.1984</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>0.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>16.35</ndoMarketPct>
+      <ndoMarketableLimitPct>6.28</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>48.65</ndoNonmarketableLimitPct>
+      <ndoOtherPct>28.72</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>34.89</orderPct>
+          <marketPct>33.56</marketPct>
+          <marketableLimitPct>33.85</marketableLimitPct>
+          <nonMarketableLimitPct>33.60</nonMarketableLimitPct>
+          <otherPct>38.06</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1091041.96</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>33.6567</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>891696.97</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>34.5103</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1094889.25</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.9164</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>481764.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.5661</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>30.16</orderPct>
+          <marketPct>30.06</marketPct>
+          <marketableLimitPct>29.77</marketableLimitPct>
+          <nonMarketableLimitPct>29.42</nonMarketableLimitPct>
+          <otherPct>31.57</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1371427.01</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.0063</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>404303.62</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>34.1301</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1212393.74</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>38.7956</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>841406.51</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.9622</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>20.12</orderPct>
+          <marketPct>18.82</marketPct>
+          <marketableLimitPct>19.38</marketableLimitPct>
+          <nonMarketableLimitPct>20.52</nonMarketableLimitPct>
+          <otherPct>20.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>656254.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.2405</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>515143.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>39.0225</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>794285.50</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.8393</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>579360.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.0699</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>DASH/IMC</name>
+          <orderPct>8.84</orderPct>
+          <marketPct>12.82</marketPct>
+          <marketableLimitPct>11.31</marketableLimitPct>
+          <nonMarketableLimitPct>9.97</nonMarketableLimitPct>
+          <otherPct>4.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>444176.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.1531</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>249941.70</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>32.9901</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>362951.80</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.8261</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>130316.14</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.1215</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue. In connection with Dash’s handling of Charles Schwab’s retail equity option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC, designed to facilitate liquidity provision and price improvement opportunities.  Pursuant to these arrangements, Dash routes Charles Schwab’s retail equity option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs which are described in the fee schedules of the options exchanges. It is noted that these liquidity providers provide Dash with remuneration in connection with Schwab’s retail equity options orders, including reciprocal order flow consideration or payment per contract in return for Schwab retail equity options orders that Dash routes or directs.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>5.99</orderPct>
+          <marketPct>4.73</marketPct>
+          <marketableLimitPct>5.69</marketableLimitPct>
+          <nonMarketableLimitPct>6.49</nonMarketableLimitPct>
+          <otherPct>5.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>190470.90</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>40.9870</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>213805.30</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>45.1215</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>227910.90</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>42.8873</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>169972.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.7634</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>05</mon>
+    <rSP500>
+      <ndoPct>99.73</ndoPct>
+      <ndoMarketPct>57.16</ndoMarketPct>
+      <ndoMarketableLimitPct>4.53</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>30.39</ndoNonmarketableLimitPct>
+      <ndoOtherPct>7.91</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.71</orderPct>
+          <marketPct>38.35</marketPct>
+          <marketableLimitPct>35.11</marketableLimitPct>
+          <nonMarketableLimitPct>30.06</nonMarketableLimitPct>
+          <otherPct>38.72</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>260508.41</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>41976.07</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0095</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>202804.45</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.9140</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>41802.69</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.3212</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.61</orderPct>
+          <marketPct>27.54</marketPct>
+          <marketableLimitPct>27.57</marketableLimitPct>
+          <nonMarketableLimitPct>24.00</nonMarketableLimitPct>
+          <otherPct>42.05</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>218319.37</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9935</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>35396.41</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>156949.31</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>13163.42</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.1866</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>16.37</orderPct>
+          <marketPct>14.99</marketPct>
+          <marketableLimitPct>17.36</marketableLimitPct>
+          <nonMarketableLimitPct>20.56</nonMarketableLimitPct>
+          <otherPct>9.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>89291.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0002</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>40900.31</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0901</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>111279.34</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.2383</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>21245.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.5441</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>14.20</orderPct>
+          <marketPct>14.23</marketPct>
+          <marketableLimitPct>14.42</marketableLimitPct>
+          <nonMarketableLimitPct>16.01</nonMarketableLimitPct>
+          <otherPct>6.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>109375.76</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>18205.78</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>136914.13</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>15961.56</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.1586</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>5.22</orderPct>
+          <marketPct>4.87</marketPct>
+          <marketableLimitPct>5.31</marketableLimitPct>
+          <nonMarketableLimitPct>6.62</nonMarketableLimitPct>
+          <otherPct>2.29</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>38309.98</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0002</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>7523.81</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0055</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>37652.63</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.1406</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>4106.59</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.9097</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>0.52</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.13</marketableLimitPct>
+          <nonMarketableLimitPct>1.64</nonMarketableLimitPct>
+          <otherPct>0.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-87.63</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-30.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>9516.71</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-125.54</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-11.5994</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>0.36</orderPct>
+          <marketPct>0.02</marketPct>
+          <marketableLimitPct>0.10</marketableLimitPct>
+          <nonMarketableLimitPct>1.11</nonMarketableLimitPct>
+          <otherPct>0.13</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-0.30</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-0.0063</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-188.97</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-16.9187</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>5903.53</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.8967</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>113.56</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>10.1415</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.36</ndoPct>
+      <ndoMarketPct>51.01</ndoMarketPct>
+      <ndoMarketableLimitPct>6.46</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>33.69</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.84</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>34.14</orderPct>
+          <marketPct>35.74</marketPct>
+          <marketableLimitPct>35.41</marketableLimitPct>
+          <nonMarketableLimitPct>30.31</nonMarketableLimitPct>
+          <otherPct>38.57</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>777692.93</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.3891</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>241154.73</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7703</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>810654.77</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.5005</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>132793.86</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.1417</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.91</orderPct>
+          <marketPct>27.40</marketPct>
+          <marketableLimitPct>27.70</marketableLimitPct>
+          <nonMarketableLimitPct>24.27</nonMarketableLimitPct>
+          <otherPct>44.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>658563.95</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.3947</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>198749.36</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.6772</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>607687.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.5283</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>30183.89</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>2.0594</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>16.99</orderPct>
+          <marketPct>16.32</marketPct>
+          <marketableLimitPct>17.07</marketableLimitPct>
+          <nonMarketableLimitPct>20.24</nonMarketableLimitPct>
+          <otherPct>8.37</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>271344.06</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4091</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>162538.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.1462</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>439312.89</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.5479</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>70031.47</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.6787</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>14.65</orderPct>
+          <marketPct>15.26</marketPct>
+          <marketableLimitPct>14.30</marketableLimitPct>
+          <nonMarketableLimitPct>16.03</nonMarketableLimitPct>
+          <otherPct>6.09</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>352234.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4062</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>101882.46</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7189</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>560089.31</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.8549</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>46545.01</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.1648</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>5.33</orderPct>
+          <marketPct>5.22</marketPct>
+          <marketableLimitPct>5.28</marketableLimitPct>
+          <nonMarketableLimitPct>6.44</nonMarketableLimitPct>
+          <otherPct>1.84</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>117147.93</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4059</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>38586.24</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.6685</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>144224.73</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.4602</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>10000.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.6116</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>0.56</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.12</marketableLimitPct>
+          <nonMarketableLimitPct>1.60</nonMarketableLimitPct>
+          <otherPct>0.13</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-514.86</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.5424</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>34062.76</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.6324</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-651.68</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-10.9884</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>0.42</orderPct>
+          <marketPct>0.06</marketPct>
+          <marketableLimitPct>0.12</marketableLimitPct>
+          <nonMarketableLimitPct>1.11</nonMarketableLimitPct>
+          <otherPct>0.09</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-0.34</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-0.0012</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-11927.61</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-26.5723</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>17444.87</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.1486</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>981.32</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>26.6344</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>16.78</ndoMarketPct>
+      <ndoMarketableLimitPct>6.40</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>47.52</ndoNonmarketableLimitPct>
+      <ndoOtherPct>29.30</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.16</orderPct>
+          <marketPct>33.65</marketPct>
+          <marketableLimitPct>34.09</marketableLimitPct>
+          <nonMarketableLimitPct>33.82</nonMarketableLimitPct>
+          <otherPct>38.44</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1026911.62</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>33.3065</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>871910.62</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>34.5369</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1053012.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.5842</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>457203.02</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>17.6354</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>30.18</orderPct>
+          <marketPct>30.05</marketPct>
+          <marketableLimitPct>29.78</marketableLimitPct>
+          <nonMarketableLimitPct>29.45</nonMarketableLimitPct>
+          <otherPct>31.54</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>381152.05</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.4494</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>559238.51</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>36.4325</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1187541.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>38.6176</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1595853.21</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.9756</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>20.04</orderPct>
+          <marketPct>18.76</marketPct>
+          <marketableLimitPct>19.22</marketableLimitPct>
+          <nonMarketableLimitPct>20.40</nonMarketableLimitPct>
+          <otherPct>20.36</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>625698.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.5808</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>492588.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>39.2311</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>776567.70</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>41.1614</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>586654.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.4029</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>DASH/IMC</name>
+          <orderPct>8.78</orderPct>
+          <marketPct>12.79</marketPct>
+          <marketableLimitPct>11.33</marketableLimitPct>
+          <nonMarketableLimitPct>9.88</nonMarketableLimitPct>
+          <otherPct>4.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>430392.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.2248</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>249688.90</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.0691</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>354827.30</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.3220</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>135154.13</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.5775</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue. In connection with Dash’s handling of Charles Schwab’s retail equity option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC, designed to facilitate liquidity provision and price improvement opportunities.  Pursuant to these arrangements, Dash routes Charles Schwab’s retail equity option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs which are described in the fee schedules of the options exchanges. It is noted that these liquidity providers provide Dash with remuneration in connection with Schwab’s retail equity options orders, including reciprocal order flow consideration or payment per contract in return for Schwab retail equity options orders that Dash routes or directs.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>5.83</orderPct>
+          <marketPct>4.75</marketPct>
+          <marketableLimitPct>5.59</marketableLimitPct>
+          <nonMarketableLimitPct>6.45</nonMarketableLimitPct>
+          <otherPct>5.51</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>171687.10</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>38.9845</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>200466.50</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>41.9732</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>199805.40</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>41.2353</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>162255.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.7376</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>06</mon>
+    <rSP500>
+      <ndoPct>99.74</ndoPct>
+      <ndoMarketPct>57.42</ndoMarketPct>
+      <ndoMarketableLimitPct>4.58</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>30.57</ndoNonmarketableLimitPct>
+      <ndoOtherPct>7.42</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>35.63</orderPct>
+          <marketPct>38.25</marketPct>
+          <marketableLimitPct>35.49</marketableLimitPct>
+          <nonMarketableLimitPct>29.99</nonMarketableLimitPct>
+          <otherPct>38.66</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>265113.06</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>45136.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0019</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>188374.46</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.9849</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>35371.53</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.2905</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.30</orderPct>
+          <marketPct>27.40</marketPct>
+          <marketableLimitPct>27.50</marketableLimitPct>
+          <nonMarketableLimitPct>23.94</nonMarketableLimitPct>
+          <otherPct>40.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>225997.81</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9933</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>37682.72</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>148794.75</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>12542.86</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.5043</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>16.36</orderPct>
+          <marketPct>14.87</marketPct>
+          <marketableLimitPct>17.22</marketableLimitPct>
+          <nonMarketableLimitPct>20.45</nonMarketableLimitPct>
+          <otherPct>10.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>96072.77</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9998</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>43527.89</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0280</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>112684.93</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.1741</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>23004.43</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.5764</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>14.91</orderPct>
+          <marketPct>14.89</marketPct>
+          <marketableLimitPct>14.75</marketableLimitPct>
+          <nonMarketableLimitPct>16.67</nonMarketableLimitPct>
+          <otherPct>7.85</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>118844.57</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9991</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>20289.40</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9987</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>138540.81</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.9988</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>14703.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.2937</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>4.96</orderPct>
+          <marketPct>4.57</marketPct>
+          <marketableLimitPct>4.97</marketableLimitPct>
+          <nonMarketableLimitPct>6.31</nonMarketableLimitPct>
+          <otherPct>2.40</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>38527.32</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0003</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6827.72</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.1853</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>35675.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.1965</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3810.31</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.5169</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>0.50</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.04</marketableLimitPct>
+          <nonMarketableLimitPct>1.58</nonMarketableLimitPct>
+          <otherPct>0.19</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-34.08</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.9367</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>8423.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.9983</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-105.71</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-19.3672</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>0.35</orderPct>
+          <marketPct>0.02</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.06</nonMarketableLimitPct>
+          <otherPct>0.13</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-25.16</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-14.7837</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3765.19</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.4858</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1956.71</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>27.9529</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>99.38</ndoPct>
+      <ndoMarketPct>49.57</ndoMarketPct>
+      <ndoMarketableLimitPct>6.64</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>33.81</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.98</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>34.02</orderPct>
+          <marketPct>35.60</marketPct>
+          <marketableLimitPct>35.59</marketableLimitPct>
+          <nonMarketableLimitPct>30.05</nonMarketableLimitPct>
+          <otherPct>38.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>943866.48</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.6507</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>304218.67</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.2615</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>971674.79</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.5698</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>175931.45</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.5366</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>28.01</orderPct>
+          <marketPct>27.32</marketPct>
+          <marketableLimitPct>27.95</marketableLimitPct>
+          <nonMarketableLimitPct>23.97</nonMarketableLimitPct>
+          <otherPct>45.17</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>797782.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.6382</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>259446.27</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.2254</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>738793.09</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.5268</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>37632.13</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>1.9615</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>16.77</orderPct>
+          <marketPct>16.20</marketPct>
+          <marketableLimitPct>16.69</marketableLimitPct>
+          <nonMarketableLimitPct>20.17</nonMarketableLimitPct>
+          <otherPct>8.22</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>342591.56</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.6249</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>207246.21</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.6535</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>572293.81</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.4959</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>99203.51</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.0311</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>15.25</orderPct>
+          <marketPct>15.97</marketPct>
+          <marketableLimitPct>14.66</marketableLimitPct>
+          <nonMarketableLimitPct>17.00</nonMarketableLimitPct>
+          <otherPct>6.13</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>439141.48</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.5770</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>136413.12</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.3024</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>718497.08</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.6489</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>60562.34</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>13.5437</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>4.99</orderPct>
+          <marketPct>4.90</marketPct>
+          <marketableLimitPct>5.00</marketableLimitPct>
+          <nonMarketableLimitPct>6.10</nonMarketableLimitPct>
+          <otherPct>1.71</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>132737.91</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.6051</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>46450.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.3431</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>172183.01</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.2582</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>12543.92</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.2614</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>The Nasdaq Stock Market</name>
+          <orderPct>0.55</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.06</marketableLimitPct>
+          <nonMarketableLimitPct>1.57</nonMarketableLimitPct>
+          <otherPct>0.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-375.91</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.5534</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>41361.07</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.2540</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-540.64</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-16.9450</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability).Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Cboe EDGX Exchange, Inc.</name>
+          <orderPct>0.40</orderPct>
+          <marketPct>0.01</marketPct>
+          <marketableLimitPct>0.06</marketableLimitPct>
+          <nonMarketableLimitPct>1.15</nonMarketableLimitPct>
+          <otherPct>0.08</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-2487.48</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-22.9467</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>15833.66</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.4792</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>9886.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>23.8649</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Schwab receives rebates from liquidity providers and certain exchanges based upon the order flow executed at each destination. Some orders require us to pay associated transaction costs, but most orders result in rebates. Rebate rates are substantially similar among the various securities exchanges and liquidity providers, although they vary based upon order characteristics (e.g. price of the security, marketability). Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>16.61</ndoMarketPct>
+      <ndoMarketableLimitPct>7.03</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>47.90</ndoNonmarketableLimitPct>
+      <ndoOtherPct>28.46</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>34.92</orderPct>
+          <marketPct>33.48</marketPct>
+          <marketableLimitPct>33.50</marketableLimitPct>
+          <nonMarketableLimitPct>33.54</nonMarketableLimitPct>
+          <otherPct>38.43</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1252822.32</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.1611</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1138458.24</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>36.3122</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1212293.86</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.2428</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>561291.12</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.9218</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>30.16</orderPct>
+          <marketPct>29.99</marketPct>
+          <marketableLimitPct>29.63</marketableLimitPct>
+          <nonMarketableLimitPct>29.51</nonMarketableLimitPct>
+          <otherPct>31.49</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>463193.23</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>37.9641</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>718278.22</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>38.2306</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1381128.77</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.0679</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1953270.61</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.8658</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>20.06</orderPct>
+          <marketPct>18.87</marketPct>
+          <marketableLimitPct>19.60</marketableLimitPct>
+          <nonMarketableLimitPct>20.31</nonMarketableLimitPct>
+          <otherPct>20.43</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>759501.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>38.1561</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>654616.40</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>40.2910</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>891018.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>42.0862</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>703115.70</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.7352</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>DASH/IMC</name>
+          <orderPct>8.61</orderPct>
+          <marketPct>12.28</marketPct>
+          <marketableLimitPct>10.93</marketableLimitPct>
+          <nonMarketableLimitPct>9.66</nonMarketableLimitPct>
+          <otherPct>4.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>479884.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.5283</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>295284.90</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>32.8710</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>390809.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.2876</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>165198.23</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.0209</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue. In connection with Dash’s handling of Charles Schwab’s retail equity option orders, Dash has arrangements with multiple unaffiliated liquidity providers, including IMC, designed to facilitate liquidity provision and price improvement opportunities.  Pursuant to these arrangements, Dash routes Charles Schwab’s retail equity option orders to exchanges and preferences the liquidity providers consistent with exchange sponsored programs which are described in the fee schedules of the options exchanges. It is noted that these liquidity providers provide Dash with remuneration in connection with Schwab’s retail equity options orders, including reciprocal order flow consideration or payment per contract in return for Schwab retail equity options orders that Dash routes or directs.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>6.25</orderPct>
+          <marketPct>5.38</marketPct>
+          <marketableLimitPct>6.33</marketableLimitPct>
+          <nonMarketableLimitPct>6.98</nonMarketableLimitPct>
+          <otherPct>5.51</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>244782.40</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>41.8463</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>293831.50</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>44.5106</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>255330.40</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>42.9665</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>192782.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.4651</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. Any difference in average net per contract payments paid by market makers is due to the various type of orders and respective quantities they handle. Schwab will not bid out its order flow among venues nor negotiate over rates of payment as a condition for sending more order flow to a market venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>

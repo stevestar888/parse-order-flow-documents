@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>Charles Schwab</bd>
+  <year>2020</year>
+  <qtr>1</qtr>
+  <timestamp>2020-12-04T19:19:28Z</timestamp>
+  <rMonthly>
+    <year>2020</year>
+    <mon>01</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>53.25</ndoMarketPct>
+      <ndoMarketableLimitPct>5.64</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>31.76</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.34</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>30.76</orderPct>
+          <marketPct>31.87</marketPct>
+          <marketableLimitPct>31.05</marketableLimitPct>
+          <nonMarketableLimitPct>27.01</nonMarketableLimitPct>
+          <otherPct>37.04</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>153528.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.2765</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>46181.19</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.0745</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>203749.59</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.6318</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>28015.48</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.1368</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>30.16</orderPct>
+          <marketPct>30.04</marketPct>
+          <marketableLimitPct>29.27</marketableLimitPct>
+          <nonMarketableLimitPct>27.58</nonMarketableLimitPct>
+          <otherPct>40.13</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>135819.24</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.2557</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>35677.64</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.0207</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>136477.89</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>28.9771</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>37249.34</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.5240</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>VIRTU is a market maker in certain exchange listed and OTC equity securities.  Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>22.47</orderPct>
+          <marketPct>22.90</marketPct>
+          <marketableLimitPct>23.88</marketableLimitPct>
+          <nonMarketableLimitPct>24.23</nonMarketableLimitPct>
+          <otherPct>13.24</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>114788.46</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>26263.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>149516.39</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>G1X is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>14.45</orderPct>
+          <marketPct>14.06</marketPct>
+          <marketableLimitPct>14.66</marketableLimitPct>
+          <nonMarketableLimitPct>16.82</nonMarketableLimitPct>
+          <otherPct>8.45</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>48399.09</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.9975</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>23714.14</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>5.7597</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>77206.21</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.4743</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1212.79</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>UBS is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>1.08</orderPct>
+          <marketPct>1.04</marketPct>
+          <marketableLimitPct>1.12</marketableLimitPct>
+          <nonMarketableLimitPct>1.26</nonMarketableLimitPct>
+          <otherPct>0.64</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>6555.82</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4734</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1590.19</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.4753</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6125.30</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.2687</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>484.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.4851</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Two Sigma is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for orders executed through the firm, which average $.0009 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CBOE BZX Exchange</name>
+          <orderPct>0.62</orderPct>
+          <marketPct>0.08</marketPct>
+          <marketableLimitPct>0.02</marketableLimitPct>
+          <nonMarketableLimitPct>1.70</nonMarketableLimitPct>
+          <otherPct>0.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-2831.93</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-26.3829</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-4091.06</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.3301</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4990.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>12.6035</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0032 per share. Schwab is charged for removing liquidity from this venue up to $0.00265.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Nasdaq Execution Services, LLC</name>
+          <orderPct>0.46</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.01</marketableLimitPct>
+          <nonMarketableLimitPct>1.39</nonMarketableLimitPct>
+          <otherPct>0.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-8.54</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-23.0562</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>85.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>0.6518</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-0.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-0.0320</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0033 per share. Schwab is charged for removing liquidity from this venue up to $0.0030.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>50.44</ndoMarketPct>
+      <ndoMarketableLimitPct>7.83</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>32.31</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.42</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>30.51</orderPct>
+          <marketPct>31.18</marketPct>
+          <marketableLimitPct>30.96</marketableLimitPct>
+          <nonMarketableLimitPct>27.23</nonMarketableLimitPct>
+          <otherPct>37.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>539428.27</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4707</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>244467.51</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.3802</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>561750.26</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.8131</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>59066.74</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>5.1299</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>30.14</orderPct>
+          <marketPct>29.94</marketPct>
+          <marketableLimitPct>29.51</marketableLimitPct>
+          <nonMarketableLimitPct>27.63</nonMarketableLimitPct>
+          <otherPct>40.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>499260.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.1756</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>185455.86</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.5215</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>503521.45</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.8399</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>136699.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.0446</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>VIRTU is a market maker in certain exchange listed and OTC equity securities.  Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>22.64</orderPct>
+          <marketPct>23.43</marketPct>
+          <marketableLimitPct>23.35</marketableLimitPct>
+          <nonMarketableLimitPct>24.13</nonMarketableLimitPct>
+          <otherPct>12.68</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>391457.59</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>150121.03</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>541130.48</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>G1X is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>14.54</orderPct>
+          <marketPct>14.34</marketPct>
+          <marketableLimitPct>14.27</marketableLimitPct>
+          <nonMarketableLimitPct>16.77</nonMarketableLimitPct>
+          <otherPct>8.17</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>126143.61</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.0579</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>140679.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>6.4965</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>289870.86</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.1983</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>5878.25</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.9020</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>UBS is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>1.08</orderPct>
+          <marketPct>1.06</marketPct>
+          <marketableLimitPct>1.09</marketableLimitPct>
+          <nonMarketableLimitPct>1.25</nonMarketableLimitPct>
+          <otherPct>0.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>20169.38</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.3703</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>8760.06</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7012</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>22485.07</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>22.2021</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1964.53</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.4886</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Two Sigma is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for orders executed through the firm, which average $.0009 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CBOE BZX Exchange</name>
+          <orderPct>0.61</orderPct>
+          <marketPct>0.04</marketPct>
+          <marketableLimitPct>0.39</marketableLimitPct>
+          <nonMarketableLimitPct>1.64</nonMarketableLimitPct>
+          <otherPct>0.25</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-4434.32</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-26.3791</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-12729.85</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-28.1879</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>22824.95</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.7401</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0032 per share. Schwab is charged for removing liquidity from this venue up to $0.00265.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Nasdaq Execution Services, LLC</name>
+          <orderPct>0.48</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.43</marketableLimitPct>
+          <nonMarketableLimitPct>1.34</nonMarketableLimitPct>
+          <otherPct>0.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-3150.50</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-23.0453</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>31570.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.1276</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-9.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-0.0321</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0033 per share. Schwab is charged for removing liquidity from this venue up to $0.0030.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.99</ndoPct>
+      <ndoMarketPct>14.84</ndoMarketPct>
+      <ndoMarketableLimitPct>7.46</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>48.02</ndoNonmarketableLimitPct>
+      <ndoOtherPct>29.67</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>32.10</orderPct>
+          <marketPct>28.82</marketPct>
+          <marketableLimitPct>29.60</marketableLimitPct>
+          <nonMarketableLimitPct>29.46</nonMarketableLimitPct>
+          <otherPct>38.65</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>605158.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.3214</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>538903.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>34.3571</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>688743.80</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.1817</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>546847.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>30.2888</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>22.15</orderPct>
+          <marketPct>18.14</marketPct>
+          <marketableLimitPct>17.75</marketableLimitPct>
+          <nonMarketableLimitPct>18.07</nonMarketableLimitPct>
+          <otherPct>31.86</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>491761.90</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.8843</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>450841.39</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>35.9110</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1044108.09</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.1598</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>59267.23</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>37.2410</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>21.13</orderPct>
+          <marketPct>22.71</marketPct>
+          <marketableLimitPct>22.28</marketableLimitPct>
+          <nonMarketableLimitPct>21.36</nonMarketableLimitPct>
+          <otherPct>19.69</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>521685.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.5088</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>523778.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>36.8021</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>543470.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.4380</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>443004.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.6632</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>18.62</orderPct>
+          <marketPct>21.61</marketPct>
+          <marketableLimitPct>21.89</marketableLimitPct>
+          <nonMarketableLimitPct>23.00</nonMarketableLimitPct>
+          <otherPct>9.22</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>63746.58</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.3475</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>134221.03</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.2225</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>750094.30</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.6964</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>805340.67</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.2551</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Citigroup Global Markets Inc.</name>
+          <orderPct>4.83</orderPct>
+          <marketPct>6.85</marketPct>
+          <marketableLimitPct>6.84</marketableLimitPct>
+          <nonMarketableLimitPct>6.68</nonMarketableLimitPct>
+          <otherPct>0.31</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>87954.52</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.8734</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>162141.86</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.4482</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>168401.40</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.0991</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>7383.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>37.0011</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash Financial Technologies, LLC</name>
+          <orderPct>1.17</orderPct>
+          <marketPct>1.87</marketPct>
+          <marketableLimitPct>1.64</marketableLimitPct>
+          <nonMarketableLimitPct>1.44</nonMarketableLimitPct>
+          <otherPct>0.27</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>42986.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.8974</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>28197.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.8139</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>44316.50</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.2057</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>5618.60</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.4486</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2020</year>
+    <mon>02</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>53.69</ndoMarketPct>
+      <ndoMarketableLimitPct>5.55</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>32.69</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.07</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>30.68</orderPct>
+          <marketPct>31.52</marketPct>
+          <marketableLimitPct>31.31</marketableLimitPct>
+          <nonMarketableLimitPct>27.42</nonMarketableLimitPct>
+          <otherPct>37.85</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>175402.87</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.2883</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>46441.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>10.2127</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>242438.97</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.4574</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>26946.77</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>6.9248</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>29.34</orderPct>
+          <marketPct>29.77</marketPct>
+          <marketableLimitPct>28.91</marketableLimitPct>
+          <nonMarketableLimitPct>26.18</nonMarketableLimitPct>
+          <otherPct>39.63</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>150348.88</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.3323</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>36751.55</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.7180</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>135392.43</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.3837</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>40562.79</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.7642</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>VIRTU is a market maker in certain exchange listed and OTC equity securities.  Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>22.85</orderPct>
+          <marketPct>23.14</marketPct>
+          <marketableLimitPct>23.81</marketableLimitPct>
+          <nonMarketableLimitPct>24.66</nonMarketableLimitPct>
+          <otherPct>12.93</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>129443.09</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>29014.67</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>154279.92</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>G1X is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>14.94</orderPct>
+          <marketPct>14.45</marketPct>
+          <marketableLimitPct>14.86</marketableLimitPct>
+          <nonMarketableLimitPct>17.36</nonMarketableLimitPct>
+          <otherPct>8.47</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>56432.21</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.7091</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>21265.82</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>4.3159</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>85839.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.0785</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1490.98</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>UBS is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>1.11</orderPct>
+          <marketPct>1.07</marketPct>
+          <marketableLimitPct>1.06</marketableLimitPct>
+          <nonMarketableLimitPct>1.30</nonMarketableLimitPct>
+          <otherPct>0.62</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>6426.20</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1497.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6477.97</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.7871</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>895.91</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Two Sigma is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for orders executed through the firm, which average $.0009 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Nasdaq Execution Services, LLC</name>
+          <orderPct>0.55</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.02</marketableLimitPct>
+          <nonMarketableLimitPct>1.63</nonMarketableLimitPct>
+          <otherPct>0.17</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-7.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-3.1297</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>7780.50</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.2599</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-4.92</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-0.4344</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0033 per share. Schwab is charged for removing liquidity from this venue up to $0.0030.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CBOE BZX Exchange</name>
+          <orderPct>0.54</orderPct>
+          <marketPct>0.06</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.46</nonMarketableLimitPct>
+          <otherPct>0.33</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-3461.18</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-26.3104</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-4751.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.3996</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6404.38</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>19.0667</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0032 per share. Schwab is charged for removing liquidity from this venue up to $0.00265.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>50.47</ndoMarketPct>
+      <ndoMarketableLimitPct>7.24</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>32.54</ndoNonmarketableLimitPct>
+      <ndoOtherPct>9.75</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>30.61</orderPct>
+          <marketPct>31.04</marketPct>
+          <marketableLimitPct>31.20</marketableLimitPct>
+          <nonMarketableLimitPct>27.51</nonMarketableLimitPct>
+          <otherPct>38.31</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>622899.33</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.6510</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>230962.80</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.0143</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>645746.21</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.8482</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>64780.72</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.6102</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>29.73</orderPct>
+          <marketPct>29.75</marketPct>
+          <marketableLimitPct>29.41</marketableLimitPct>
+          <nonMarketableLimitPct>26.37</nonMarketableLimitPct>
+          <otherPct>41.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>572272.51</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.3700</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>190254.73</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.5840</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>518471.16</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.2531</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>138090.12</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>7.4478</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>VIRTU is a market maker in certain exchange listed and OTC equity securities.  Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>22.70</orderPct>
+          <marketPct>23.45</marketPct>
+          <marketableLimitPct>23.63</marketableLimitPct>
+          <nonMarketableLimitPct>24.57</nonMarketableLimitPct>
+          <otherPct>11.96</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>446538.92</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>146690.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>568628.97</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>G1X is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>14.80</orderPct>
+          <marketPct>14.62</marketPct>
+          <marketableLimitPct>14.64</marketableLimitPct>
+          <nonMarketableLimitPct>17.23</nonMarketableLimitPct>
+          <otherPct>7.75</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>150255.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.2570</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>148882.97</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>6.2295</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>317390.12</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.0567</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>6522.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.4114</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>UBS is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>1.09</orderPct>
+          <marketPct>1.09</marketPct>
+          <marketableLimitPct>1.08</marketableLimitPct>
+          <nonMarketableLimitPct>1.26</nonMarketableLimitPct>
+          <otherPct>0.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>23944.30</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.4429</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>7991.41</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.1802</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>25080.70</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>22.5657</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2342.32</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.4823</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Two Sigma is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for orders executed through the firm, which average $.0009 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Nasdaq Execution Services, LLC</name>
+          <orderPct>0.54</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.62</nonMarketableLimitPct>
+          <otherPct>0.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-4.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-3.1326</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>28708.77</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.2599</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-5.47</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-0.4346</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0033 per share. Schwab is charged for removing liquidity from this venue up to $0.0030.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CBOE BZX Exchange</name>
+          <orderPct>0.52</orderPct>
+          <marketPct>0.05</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.44</nonMarketableLimitPct>
+          <otherPct>0.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-3722.72</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-26.4982</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-14120.16</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.3877</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>18839.48</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.3367</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0032 per share. Schwab is charged for removing liquidity from this venue up to $0.00265.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>99.97</ndoPct>
+      <ndoMarketPct>14.97</ndoMarketPct>
+      <ndoMarketableLimitPct>6.88</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>49.89</ndoNonmarketableLimitPct>
+      <ndoOtherPct>28.26</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>32.26</orderPct>
+          <marketPct>29.13</marketPct>
+          <marketableLimitPct>29.92</marketableLimitPct>
+          <nonMarketableLimitPct>29.75</nonMarketableLimitPct>
+          <otherPct>38.91</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>656215.10</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.7922</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>539003.20</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>35.6571</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>752079.70</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.6129</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>547055.60</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.3589</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>22.53</orderPct>
+          <marketPct>18.67</marketPct>
+          <marketableLimitPct>18.36</marketableLimitPct>
+          <nonMarketableLimitPct>18.69</nonMarketableLimitPct>
+          <otherPct>32.37</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>550778.93</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.6919</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>475097.57</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>37.4635</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1169710.16</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.7882</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>59641.79</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>37.6893</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>19.47</orderPct>
+          <marketPct>20.74</marketPct>
+          <marketableLimitPct>20.43</marketableLimitPct>
+          <nonMarketableLimitPct>19.52</nonMarketableLimitPct>
+          <otherPct>18.47</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>518134.10</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.9905</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>480550.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>36.7211</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>549581.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.8745</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>415530.60</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>36.2715</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>19.20</orderPct>
+          <marketPct>22.15</marketPct>
+          <marketableLimitPct>22.33</marketableLimitPct>
+          <nonMarketableLimitPct>23.30</nonMarketableLimitPct>
+          <otherPct>9.65</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>75306.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>33.9384</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>147489.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.4465</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>856715.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.9476</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>861483.47</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.9139</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Citigroup Global Markets Inc.</name>
+          <orderPct>5.13</orderPct>
+          <marketPct>7.14</marketPct>
+          <marketableLimitPct>6.99</marketableLimitPct>
+          <nonMarketableLimitPct>7.01</nonMarketableLimitPct>
+          <otherPct>0.28</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>94256.10</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.0854</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>168041.69</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>34.6374</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>190955.43</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>36.8229</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>6491.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>37.0926</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash Financial Technologies, LLC</name>
+          <orderPct>1.41</orderPct>
+          <marketPct>2.17</marketPct>
+          <marketableLimitPct>1.96</marketableLimitPct>
+          <nonMarketableLimitPct>1.72</nonMarketableLimitPct>
+          <otherPct>0.32</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>52734.30</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.7817</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>34973.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>32.9729</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>52789.40</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.9242</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>6468.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.0941</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2020</year>
+    <mon>03</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>51.44</ndoMarketPct>
+      <ndoMarketableLimitPct>5.27</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>36.29</ndoNonmarketableLimitPct>
+      <ndoOtherPct>7.00</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>30.97</orderPct>
+          <marketPct>31.52</marketPct>
+          <marketableLimitPct>31.64</marketableLimitPct>
+          <nonMarketableLimitPct>28.60</nonMarketableLimitPct>
+          <otherPct>38.65</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>464127.33</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0729</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>90638.79</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.4592</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>547382.45</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.6103</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>71581.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>6.8715</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.38</orderPct>
+          <marketPct>28.10</marketPct>
+          <marketableLimitPct>26.33</marketableLimitPct>
+          <nonMarketableLimitPct>24.25</nonMarketableLimitPct>
+          <otherPct>39.06</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>400077.62</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.6016</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>76344.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.3866</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>304960.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.6780</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>84385.93</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.6294</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>VIRTU is a market maker in certain exchange listed and OTC equity securities.  Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>23.46</orderPct>
+          <marketPct>24.11</marketPct>
+          <marketableLimitPct>24.71</marketableLimitPct>
+          <nonMarketableLimitPct>24.48</nonMarketableLimitPct>
+          <otherPct>12.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>356811.55</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>68911.30</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>356453.06</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>G1X is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>15.49</orderPct>
+          <marketPct>14.73</marketPct>
+          <marketableLimitPct>15.56</marketableLimitPct>
+          <nonMarketableLimitPct>17.94</nonMarketableLimitPct>
+          <otherPct>8.38</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>182912.32</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.4174</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>51870.45</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>4.9355</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>246447.50</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.3303</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3699.11</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.9986</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>UBS is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>1.66</orderPct>
+          <marketPct>1.50</marketPct>
+          <marketableLimitPct>1.70</marketableLimitPct>
+          <nonMarketableLimitPct>2.03</nonMarketableLimitPct>
+          <otherPct>0.90</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>23275.63</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>4768.35</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>23147.58</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.6211</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2105.31</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Two Sigma is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for orders executed through the firm, which average $.0009 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Nasdaq Execution Services, LLC</name>
+          <orderPct>0.57</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.52</nonMarketableLimitPct>
+          <otherPct>0.21</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-10.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-2.1189</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>20279.31</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.1865</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-28.17</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-0.9342</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0033 per share. Schwab is charged for removing liquidity from this venue up to $0.0030.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CBOE BZX Exchange</name>
+          <orderPct>0.47</orderPct>
+          <marketPct>0.04</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.18</nonMarketableLimitPct>
+          <otherPct>0.25</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-3751.26</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-26.9715</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-8518.46</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.5077</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11240.03</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.8735</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0032 per share. Schwab is charged for removing liquidity from this venue up to $0.00265.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>51.88</ndoMarketPct>
+      <ndoMarketableLimitPct>6.85</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>32.90</ndoNonmarketableLimitPct>
+      <ndoOtherPct>8.37</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>31.23</orderPct>
+          <marketPct>31.31</marketPct>
+          <marketableLimitPct>31.63</marketableLimitPct>
+          <nonMarketableLimitPct>28.68</nonMarketableLimitPct>
+          <otherPct>40.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1377124.82</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.3354</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>386909.47</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.1449</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1263822.15</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.6685</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>117979.41</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.3146</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>27.89</orderPct>
+          <marketPct>28.07</marketPct>
+          <marketableLimitPct>26.85</marketableLimitPct>
+          <nonMarketableLimitPct>24.76</nonMarketableLimitPct>
+          <otherPct>39.88</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1227788.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.1832</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>324203.51</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.2278</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>943788.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.4530</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>205639.97</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>6.2210</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>VIRTU is a market maker in certain exchange listed and OTC equity securities.  Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1 Execution Services, LLC</name>
+          <orderPct>23.15</orderPct>
+          <marketPct>24.22</marketPct>
+          <marketableLimitPct>24.42</marketableLimitPct>
+          <nonMarketableLimitPct>24.25</nonMarketableLimitPct>
+          <otherPct>11.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1011244.69</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>9.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>261825.88</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>9.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1042159.68</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>G1X is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which average $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>UBS Securities, LLC</name>
+          <orderPct>15.17</orderPct>
+          <marketPct>14.85</marketPct>
+          <marketableLimitPct>15.34</marketableLimitPct>
+          <nonMarketableLimitPct>17.62</nonMarketableLimitPct>
+          <otherPct>7.44</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>380178.71</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>8.0262</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>332869.74</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>6.1879</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>678401.15</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.2331</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11691.89</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.1871</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>UBS is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for marketable orders executed through the firm, which averaged $.0009 per share. Non-Marketable Limit orders that added liquidity and which subsequently executed received payment up to $0.0030 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>1.62</orderPct>
+          <marketPct>1.53</marketPct>
+          <marketableLimitPct>1.69</marketableLimitPct>
+          <nonMarketableLimitPct>1.96</nonMarketableLimitPct>
+          <otherPct>0.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>65458.27</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.8404</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>19744.94</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.1227</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>65189.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.0464</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>6279.32</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>8.1948</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Two Sigma is a market maker in certain exchange listed and OTC equity securities. Schwab receives payments for orders executed through the firm, which average $.0009 per share.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Nasdaq Execution Services, LLC</name>
+          <orderPct>0.53</orderPct>
+          <marketPct>0.00</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.56</nonMarketableLimitPct>
+          <otherPct>0.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>0.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-13.15</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-2.1194</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>51270.90</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>31.1865</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>-22.11</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>-0.9340</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0033 per share. Schwab is charged for removing liquidity from this venue up to $0.0030.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>CBOE BZX Exchange</name>
+          <orderPct>0.41</orderPct>
+          <marketPct>0.03</marketPct>
+          <marketableLimitPct>0.03</marketableLimitPct>
+          <nonMarketableLimitPct>1.18</nonMarketableLimitPct>
+          <otherPct>0.11</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>-3206.58</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>-26.8176</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>-16707.21</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>-29.1895</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>29045.87</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>18.6505</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd></netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph></netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>For Non-Marketable Limit orders that added liquidity and which subsequently executed, Schwab received a credit up to $0.0032 per share. Schwab is charged for removing liquidity from this venue up to $0.00265.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>12.00</ndoMarketPct>
+      <ndoMarketableLimitPct>4.24</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>61.39</ndoNonmarketableLimitPct>
+      <ndoOtherPct>22.37</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>31.62</orderPct>
+          <marketPct>29.03</marketPct>
+          <marketableLimitPct>29.65</marketableLimitPct>
+          <nonMarketableLimitPct>29.67</nonMarketableLimitPct>
+          <otherPct>38.76</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>612359.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.1372</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>453785.30</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>35.5311</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1152478.30</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.4494</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>479140.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.5325</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers LP</name>
+          <orderPct>23.17</orderPct>
+          <marketPct>22.98</marketPct>
+          <marketableLimitPct>23.26</marketableLimitPct>
+          <nonMarketableLimitPct>24.08</nonMarketableLimitPct>
+          <otherPct>20.75</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>78724.55</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.7704</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>162587.99</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>32.1158</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1446451.18</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.1168</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>878810.85</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.3478</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>19.62</orderPct>
+          <marketPct>18.44</marketPct>
+          <marketableLimitPct>18.24</marketableLimitPct>
+          <nonMarketableLimitPct>18.70</nonMarketableLimitPct>
+          <otherPct>23.01</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>521618.27</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>36.0667</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>382426.82</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>36.6906</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1396554.34</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>38.6333</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>48724.38</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>37.6215</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>17.53</orderPct>
+          <marketPct>18.62</marketPct>
+          <marketableLimitPct>18.36</marketableLimitPct>
+          <nonMarketableLimitPct>17.63</nonMarketableLimitPct>
+          <otherPct>16.51</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>454510.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.3224</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>331098.30</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>34.6982</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>902690.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.3686</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>357417.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.8453</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Citigroup Global Markets Inc.</name>
+          <orderPct>5.05</orderPct>
+          <marketPct>6.57</marketPct>
+          <marketableLimitPct>6.46</marketableLimitPct>
+          <nonMarketableLimitPct>6.33</nonMarketableLimitPct>
+          <otherPct>0.46</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>73872.72</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>34.8182</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>136149.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>32.6001</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>258426.46</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>35.5545</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>5720.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.6971</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Dash Financial Technologies, LLC</name>
+          <orderPct>3.01</orderPct>
+          <marketPct>4.36</marketPct>
+          <marketableLimitPct>4.03</marketableLimitPct>
+          <nonMarketableLimitPct>3.60</nonMarketableLimitPct>
+          <otherPct>0.50</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>100777.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>32.8987</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>67557.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.4585</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>180027.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>34.0033</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>10630.90</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.1766</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>As detailed above, Charles Schwab receives payment for routing listed option order flow to market makers. The rates paid vary by the characteristics of the order (e.g., size of order, price of security, marketability). Any difference in average net per share payments paid by market makers is due to the various type of orders and respective quantities they handle.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>

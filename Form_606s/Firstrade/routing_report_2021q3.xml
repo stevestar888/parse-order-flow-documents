@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>FIRSTRADE SECURITIES INC.</bd>
+  <year>2021</year>
+  <qtr>3</qtr>
+  <timestamp>2021-12-06T19:56:07Z</timestamp>
+  <rMonthly>
+    <year>2021</year>
+    <mon>07</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>29.78</ndoMarketPct>
+      <ndoMarketableLimitPct>6.73</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>48.81</ndoNonmarketableLimitPct>
+      <ndoOtherPct>14.67</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>89.17</orderPct>
+          <marketPct>99.89</marketPct>
+          <marketableLimitPct>99.70</marketableLimitPct>
+          <nonMarketableLimitPct>98.54</nonMarketableLimitPct>
+          <otherPct>31.45</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>12878.24</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>9751.74</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11482.57</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2940.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.6595</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel Execution Services:
+Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed equities to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share basis.  For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>10.83</orderPct>
+          <marketPct>0.11</marketPct>
+          <marketableLimitPct>0.30</marketableLimitPct>
+          <nonMarketableLimitPct>1.46</nonMarketableLimitPct>
+          <otherPct>68.55</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>116.79</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>251.98</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.5000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>487.83</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.4698</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>584.02</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>4.7319</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Apex Clearing:
+Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed equities to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share tiered basis.  For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>27.65</ndoMarketPct>
+      <ndoMarketableLimitPct>8.44</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>48.38</ndoNonmarketableLimitPct>
+      <ndoOtherPct>15.53</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>87.65</orderPct>
+          <marketPct>99.72</marketPct>
+          <marketableLimitPct>99.04</marketableLimitPct>
+          <nonMarketableLimitPct>99.48</nonMarketableLimitPct>
+          <otherPct>23.12</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>90354.36</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>11.9817</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>57904.66</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.9986</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>81433.79</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>11.5446</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>9312.23</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>11.8399</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed equities to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share basis.  For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>12.35</orderPct>
+          <marketPct>0.28</marketPct>
+          <marketableLimitPct>0.96</marketableLimitPct>
+          <nonMarketableLimitPct>0.52</nonMarketableLimitPct>
+          <otherPct>76.88</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1307.25</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2381.90</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.3624</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2162.45</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>13.9327</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>610.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>0.2817</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed equities to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share tiered basis.  For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>5.77</ndoMarketPct>
+      <ndoMarketableLimitPct>12.46</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>57.78</ndoNonmarketableLimitPct>
+      <ndoOtherPct>23.99</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>66.71</orderPct>
+          <marketPct>64.80</marketPct>
+          <marketableLimitPct>61.27</marketableLimitPct>
+          <nonMarketableLimitPct>59.58</nonMarketableLimitPct>
+          <otherPct>87.16</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>40146.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>39.5667</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>165066.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>39.6557</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>140888.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>39.3611</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>92420.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>29.0960</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis. For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>25.55</orderPct>
+          <marketPct>30.97</marketPct>
+          <marketableLimitPct>32.27</marketableLimitPct>
+          <nonMarketableLimitPct>33.41</nonMarketableLimitPct>
+          <otherPct>1.82</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>24125.20</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>57.4971</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>120581.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>60.7611</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>115719.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.2942</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3919.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>42.9078</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Wolverine Execution Services, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis.  For additional detailed Routing Information, please refer to: Wolverine Execution Services, LLC, http://www.tradewex.com/Home/Rule606</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Volant Execution</name>
+          <orderPct>6.65</orderPct>
+          <marketPct>4.18</marketPct>
+          <marketableLimitPct>5.13</marketableLimitPct>
+          <nonMarketableLimitPct>5.53</nonMarketableLimitPct>
+          <otherPct>10.75</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>6985.20</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>40.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>20056.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>40.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>22563.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>12961.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>40.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Volant Execution, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis.  For additional detailed Routing Information, please refer to: Volant Execution, LLC, https://volanttrading.com/index.php/execution-services/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>1.09</orderPct>
+          <marketPct>0.06</marketPct>
+          <marketableLimitPct>1.32</marketableLimitPct>
+          <nonMarketableLimitPct>1.48</nonMarketableLimitPct>
+          <otherPct>0.27</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>311.32</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>43.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3079.52</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.5724</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1504.20</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>22.8671</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>105.50</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>17.8814</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed options to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis. For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>08</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>28.65</ndoMarketPct>
+      <ndoMarketableLimitPct>6.54</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>50.18</ndoNonmarketableLimitPct>
+      <ndoOtherPct>14.63</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>89.66</orderPct>
+          <marketPct>99.84</marketPct>
+          <marketableLimitPct>99.76</marketableLimitPct>
+          <nonMarketableLimitPct>98.52</nonMarketableLimitPct>
+          <otherPct>34.77</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>13728.41</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>12625.68</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11601.32</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.9993</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3944.02</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.8237</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel Execution Services:
+Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed equities to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share basis.  For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>10.34</orderPct>
+          <marketPct>0.16</marketPct>
+          <marketableLimitPct>0.24</marketableLimitPct>
+          <nonMarketableLimitPct>1.48</nonMarketableLimitPct>
+          <otherPct>65.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>125.78</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>76.93</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.5000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>141.36</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.4815</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>604.81</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>6.6266</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Apex Clearing:
+Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed equities to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share tiered basis.  For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>26.32</ndoMarketPct>
+      <ndoMarketableLimitPct>8.39</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>49.44</ndoNonmarketableLimitPct>
+      <ndoOtherPct>15.85</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>87.61</orderPct>
+          <marketPct>99.73</marketPct>
+          <marketableLimitPct>99.28</marketableLimitPct>
+          <nonMarketableLimitPct>99.51</nonMarketableLimitPct>
+          <otherPct>24.16</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>87262.61</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.7597</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>48053.11</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.7796</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>71475.89</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>11.4422</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>7448.70</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.9990</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed equities to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share basis.  For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>12.39</orderPct>
+          <marketPct>0.27</marketPct>
+          <marketableLimitPct>0.72</marketableLimitPct>
+          <nonMarketableLimitPct>0.49</nonMarketableLimitPct>
+          <otherPct>75.84</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1723.96</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1114.19</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.2877</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1403.18</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.4338</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2871.70</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>1.7236</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed equities to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share tiered basis.  For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>5.32</ndoMarketPct>
+      <ndoMarketableLimitPct>11.86</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>58.53</ndoNonmarketableLimitPct>
+      <ndoOtherPct>24.29</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>66.40</orderPct>
+          <marketPct>59.72</marketPct>
+          <marketableLimitPct>58.84</marketableLimitPct>
+          <nonMarketableLimitPct>59.09</nonMarketableLimitPct>
+          <otherPct>89.19</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>41243.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>39.6800</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>192359.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>39.6036</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>151331.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>39.5050</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>85948.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>27.1218</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis. For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>26.48</orderPct>
+          <marketPct>35.48</marketPct>
+          <marketableLimitPct>34.91</marketableLimitPct>
+          <nonMarketableLimitPct>34.33</nonMarketableLimitPct>
+          <otherPct>1.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>27774.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>58.2049</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>125879.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>60.4470</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>121458.40</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.4937</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3795.60</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>43.1171</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Wolverine Execution Services, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis.  For additional detailed Routing Information, please refer to: Wolverine Execution Services, LLC, http://www.tradewex.com/Home/Rule606</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Volant Execution</name>
+          <orderPct>6.15</orderPct>
+          <marketPct>4.77</marketPct>
+          <marketableLimitPct>5.16</marketableLimitPct>
+          <nonMarketableLimitPct>5.22</nonMarketableLimitPct>
+          <otherPct>9.17</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2786.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>40.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>10638.80</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>40.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11911.20</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>12345.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>40.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Volant Execution, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis.  For additional detailed Routing Information, please refer to: Volant Execution, LLC, https://volanttrading.com/index.php/execution-services/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>0.97</orderPct>
+          <marketPct>0.04</marketPct>
+          <marketableLimitPct>1.10</marketableLimitPct>
+          <nonMarketableLimitPct>1.36</nonMarketableLimitPct>
+          <otherPct>0.15</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>11.96</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>13.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1292.82</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>13.5616</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1074.70</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>19.4199</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>62.18</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.0756</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed options to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis. For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2021</year>
+    <mon>09</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>28.58</ndoMarketPct>
+      <ndoMarketableLimitPct>6.06</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>51.30</ndoNonmarketableLimitPct>
+      <ndoOtherPct>14.06</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>89.17</orderPct>
+          <marketPct>99.88</marketPct>
+          <marketableLimitPct>99.72</marketableLimitPct>
+          <nonMarketableLimitPct>98.57</nonMarketableLimitPct>
+          <otherPct>28.52</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>12460.78</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>15.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>8372.65</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>10299.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3333.93</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>14.7777</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Citadel Execution Services:
+Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed equities to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share basis.  For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>10.83</orderPct>
+          <marketPct>0.12</marketPct>
+          <marketableLimitPct>0.28</marketableLimitPct>
+          <nonMarketableLimitPct>1.43</nonMarketableLimitPct>
+          <otherPct>71.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>73.03</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>97.65</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.5000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>252.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.4960</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1044.37</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>9.3916</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Apex Clearing:
+Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed equities to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share tiered basis.  For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>27.14</ndoMarketPct>
+      <ndoMarketableLimitPct>8.51</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>49.22</ndoNonmarketableLimitPct>
+      <ndoOtherPct>15.13</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>87.89</orderPct>
+          <marketPct>99.74</marketPct>
+          <marketableLimitPct>99.28</marketableLimitPct>
+          <nonMarketableLimitPct>99.51</nonMarketableLimitPct>
+          <otherPct>22.38</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>90609.77</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>12.6309</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>56186.20</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>8.8128</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>74852.24</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>10.6080</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>7900.42</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>12.2146</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed equities to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share basis.  For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>12.11</orderPct>
+          <marketPct>0.26</marketPct>
+          <marketableLimitPct>0.72</marketableLimitPct>
+          <nonMarketableLimitPct>0.49</nonMarketableLimitPct>
+          <otherPct>77.62</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1973.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>7.5000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1358.39</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>7.4652</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1758.71</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.3548</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3635.94</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>1.8954</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed equities to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per share tiered basis.  For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>5.45</ndoMarketPct>
+      <ndoMarketableLimitPct>12.19</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>58.40</ndoNonmarketableLimitPct>
+      <ndoOtherPct>23.96</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>CITADEL SECURITIES LLC</name>
+          <orderPct>67.57</orderPct>
+          <marketPct>58.02</marketPct>
+          <marketableLimitPct>59.86</marketableLimitPct>
+          <nonMarketableLimitPct>60.36</nonMarketableLimitPct>
+          <otherPct>91.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>36886.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>39.5467</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>190830.00</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>38.6644</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>164571.00</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>38.6612</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>70818.00</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>23.9054</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Citadel Securities, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis. For additional detailed Routing Information, please refer to: Citadel Securities, LLC, https://www.citadelsecurities.com/rule-605-606-statements/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>25.88</orderPct>
+          <marketPct>36.76</marketPct>
+          <marketableLimitPct>33.83</marketableLimitPct>
+          <nonMarketableLimitPct>33.21</nonMarketableLimitPct>
+          <otherPct>1.48</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>30966.80</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>56.2532</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>136147.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>64.7733</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>119127.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>64.0013</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2782.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>44.4260</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Wolverine Execution Services, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis.  For additional detailed Routing Information, please refer to: Wolverine Execution Services, LLC, http://www.tradewex.com/Home/Rule606</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Volant Execution</name>
+          <orderPct>5.63</orderPct>
+          <marketPct>5.17</marketPct>
+          <marketableLimitPct>5.07</marketableLimitPct>
+          <nonMarketableLimitPct>5.13</nonMarketableLimitPct>
+          <otherPct>7.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2235.60</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>40.0000</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>8306.40</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>40.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>10740.80</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>8598.80</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>40.0000</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Volant Execution, LLC for directing order flow of listed options to this venue. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis.  For additional detailed Routing Information, please refer to: Volant Execution, LLC, https://volanttrading.com/index.php/execution-services/</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Apex Clearing Corporation</name>
+          <orderPct>0.93</orderPct>
+          <marketPct>0.04</marketPct>
+          <marketableLimitPct>1.23</marketableLimitPct>
+          <nonMarketableLimitPct>1.30</nonMarketableLimitPct>
+          <otherPct>0.07</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>21.97</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>17.2992</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1262.07</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.5504</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>972.95</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>18.6496</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>9.52</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.8750</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Firstrade Securities Inc. receives payment from the third party venue Apex Clearing Corporation for directing order flow of listed options to this venue under a fully disclosed clearing agreement. The disclosed amounts represent the total amount of payments received by Firstrade Securities Inc. Renumeration is paid on a per contract basis. For additional detailed Routing Information, please refer to: Apex Clearing Corporation, https://www.apexclearing.com/disclosures/sec-rule-606-and-607/</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>
