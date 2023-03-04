@@ -287,16 +287,18 @@ if __name__ == "__main__":
 
         ROBINHOOD = f"HOOD-{YEAR}/606-HOOD-2022Q{quarter}.xml"
         APEX = f"APEX-{YEAR}/606-APEX-2022Q{quarter}.xml"
+        IBKR = f"IBKR-{YEAR}/IBKR_606a_2022_Q{quarter}.xml"
         
-        path = ROBINHOOD
-        path = APEX
+        # path = ROBINHOOD
+        # path = APEX
+        path = IBKR
         
         print(f"Now parsing path {path}")
         parse(path)
         print_results_and_write_to_csv(path)
         
     
-    with open('all_rows.csv', 'w') as csv_writer:
+    with open(f'all_rows_{path[:4]}.csv', 'w') as csv_writer:
         writer = csv.writer(csv_writer)
         header = ["year", "month", "venue_name", "security_type",
                 "market_order_PFOF", "marketable_limit_order_PFOF", "nonmarketable_limit_order_PFOF", "other_order_PFOF"]
