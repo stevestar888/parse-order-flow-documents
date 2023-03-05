@@ -90,15 +90,21 @@ def parse_venues(venues, security_type, year, month):
         venue_name = "" #name of the wholesale market maker
         written_disclosure = "" #a couple of sentences that disclosures the nature of the relationship
 
-        # what % of these orders were filled by this venue?
+        # under the "venue" section of a Form 606 report, there are 3 categories of data:
+        # 1. what % of these orders were filled by this venue?
+        # 2. how much did a broker receive in PFOF from this venue?
+        # 3. how much PFOF was received per 100 shares (for stocks) or 1 option contract (for options)?
+        
+        # 1
         non_directed_order_pct = 0 
         market_order_pct = 0
         marketable_limit_order_pct = 0
         nonmarketable_limit_order_pct = 0
         other_order_pct = 0
 
+        # 2 & 3
         market_order_PFOF = 0
-        market_order_PFOF_cph = 0 # PFOF received for 100 shares or 1 options contract
+        market_order_PFOF_cph = 0 # cph = PFOF received for 100 shares or 1 options contract
         
         marketable_limit_order_PFOF = 0
         marketable_limit_order_PFOF_cph = 0
@@ -176,6 +182,7 @@ def bookkeep(venue_data):
         PFOF_per_100: PFOF received per 100 shares, or 1 options contract
     """
 
+    # keep a running sum of PFOF categories
     global cumulative_market_order_PFOF
     global cumulative_marketable_limit_order_PFOF
     global cumulative_nonmarketable_limit_order_PFOF
@@ -202,7 +209,7 @@ def bookkeep(venue_data):
     elif venue_data.security_type == "rOptions": 
         cumulative_options_PFOF += PFOF_for_venue_for_security_type_for_period
     else:
-        print(f"{venue_data.security_type} is not a security type that I understand.")
+        Exception(f"{venue_data.security_type} is not a security type that I understand.")
     
     # categorize by venue type
     if PFOF_for_venue_for_security_type_for_period:
@@ -269,45 +276,96 @@ def write_csv_row(row):
         writer.writerow(row)
 
 
-if __name__ == "__main__":
-    # clear the csv file
-    with open('data.csv', 'w') as csv_writer:
-        writer = csv.writer(csv_writer)
-
-    CSV_HEADER = ["Year", "Qtr", "Total", "Market", "Marketable Limit", "Non-Marketable Limit", "Other", " ", "Sp500", "Non-Sp500", "Options"]
-    write_csv_row(CSV_HEADER)
-
+def main(year, write_only_PFOF):
+    # clear the csv file is no longer necessary?
+    FORM_606_FOLDER = "Form_606s"
+    files_parsed = []
+    
     for quarter in range(1, 5):
-        YEAR = 2022
+        # make sure to cd into the project's directory before running `python3 parse-form-606.py`
         
         # TDA = "../../Desktop/PFOF/TDA-606/tdainc-TDA2055-q{}-2021.xml".format(i) 
-        # schw_q4_2021 = "../../Desktop/PFOF/2021-Q4-Schwab-Quarterly-Report.xml"
         # vanguard_q4_2021 = "../../Desktop/PFOF/Disclosure_Report_Vanguard Brokerage Services_2021Q4.xml" # 0
-
-
-        ROBINHOOD = f"HOOD-{YEAR}/606-HOOD-2022Q{quarter}.xml"
-        APEX = f"APEX-{YEAR}/606-APEX-2022Q{quarter}.xml"
-        IBKR = f"IBKR-{YEAR}/IBKR_606a_2022_Q{quarter}.xml"
+        HOOD = f"{FORM_606_FOLDER}/HOOD-{year}/606-HOOD-2022Q{quarter}.xml" #robinhood
+        APEX = f"{FORM_606_FOLDER}/APEX-{year}/606-APEX-2022Q{quarter}.xml"
+        IBKR = f"{FORM_606_FOLDER}/IBKR-{year}/IBKR_606a_2022_Q{quarter}.xml" 
+        # GSCO = f"{FORM_606_FOLDER}/GSCO-{year}-GSCO_606_{quarter}_{year}_{.....}.xml" #goldman sachs
+        SCHW = f"{FORM_606_FOLDER}/SCHW/606-CHAS-{year}Q{quarter}.xml"
         
-        # path = ROBINHOOD
         # path = APEX
-        path = IBKR
+        # path = IBKR
+        path = HOOD
+        # path = SCHW
+        output_file_name = "robinhood"
         
         print(f"Now parsing path {path}")
         parse(path)
         print_results_and_write_to_csv(path)
-        
+        files_parsed.append(path)
     
-    with open(f'all_rows_{path[:4]}.csv', 'w') as csv_writer:
+    # write output csv
+    if write_only_PFOF:
+        csv_output_name = f'form_606_{output_file_name}_PFOF_only.csv'
+    else:
+        csv_output_name = f'form_606_{output_file_name}_all_data.csv'
+
+    with open(csv_output_name, 'w') as csv_writer:
+        HEADER_ONLY_PFOF_DATA = [
+            "year", "month", "venue_name", "security_type", "",
+            "market_order_PFOF", "marketable_limit_order_PFOF", "nonmarketable_limit_order_PFOF", "other_order_PFOF"]
+
+        HEADER_ALL_DATA = [
+            "year", "month", "venue_name", "security_type", "",
+            "non_directed_order_pct", "market_order_pct", "marketable_limit_order_pct", "nonmarketable_limit_order_pct", "other_order_pct", "",
+            "market_order_PFOF", "marketable_limit_order_PFOF", "nonmarketable_limit_order_PFOF", "other_order_PFOF", "",
+            "market_order_PFOF_cph", "marketable_limit_order_PFOF_cph", "nonmarketable_limit_order_PFOF_cph", "other_order_PFOF_cph", "",
+            "written_disclosure"]
+        
         writer = csv.writer(csv_writer)
-        header = ["year", "month", "venue_name", "security_type",
-                "market_order_PFOF", "marketable_limit_order_PFOF", "nonmarketable_limit_order_PFOF", "other_order_PFOF"]
-        
-        
-        writer.writerow(header)
+        if write_only_PFOF:
+            writer.writerow(HEADER_ONLY_PFOF_DATA)
+        else:
+            writer.writerow(HEADER_ALL_DATA)
+
         for venue_data in all_rows:
-            payload = [
-                venue_data.year, venue_data.month, venue_data.venue_name, venue_data.security_type,
-                venue_data.market_order_PFOF, venue_data.marketable_limit_order_PFOF, venue_data.nonmarketable_limit_order_PFOF, venue_data.other_order_PFOF]
+            #translate security_type
+            security_type = ""
+            if venue_data.security_type == "rSP500":
+                security_type = "S&P 500 stocks"
+            elif venue_data.security_type == "rOtherStocks":
+                security_type = "non-S&P 500 stocks"
+            elif venue_data.security_type == "rOptions":
+                security_type = "options"
+            else:
+                Exception("unknown security_type")
+        
+            payload = ""
+            if write_only_PFOF:
+                payload = [
+                    venue_data.year, venue_data.month, venue_data.venue_name, security_type, "",
+                    venue_data.market_order_PFOF, venue_data.marketable_limit_order_PFOF, venue_data.nonmarketable_limit_order_PFOF, venue_data.other_order_PFOF]
+            else:
+                payload = [    
+                    venue_data.year, venue_data.month, venue_data.venue_name, security_type, "",    
+                    venue_data.non_directed_order_pct, venue_data.market_order_pct, venue_data.marketable_limit_order_pct, venue_data.nonmarketable_limit_order_pct, venue_data.other_order_pct, "",
+                    venue_data.market_order_PFOF, venue_data.marketable_limit_order_PFOF, venue_data.nonmarketable_limit_order_PFOF, venue_data.other_order_PFOF, "",    
+                    venue_data.market_order_PFOF_cph, venue_data.marketable_limit_order_PFOF_cph, venue_data.nonmarketable_limit_order_PFOF_cph, venue_data.other_order_PFOF_cph, "",   
+                    venue_data.written_disclosure]
+
             writer.writerow(payload)
-            
+
+    print("")
+    print(f'Wrote {csv_output_name} after having parsed through the following files')
+    for i, file in enumerate(files_parsed):
+        print(f' #{i+1}: {file}')
+
+
+# under the "venue" section of a Form 606 report, there are 3 categories of data:
+    # 1. what % of these orders were filled by this venue?
+    # 2. how much did a broker receive in PFOF from this venue?
+    # 3. how much PFOF was received per 100 shares (for stocks) or 1 option contract (for options)?
+        
+# write_only_PFOF=True writes only category #2
+# write_only_PFOF=False writes all 3 categories
+
+main(year=2022, write_only_PFOF=False)
